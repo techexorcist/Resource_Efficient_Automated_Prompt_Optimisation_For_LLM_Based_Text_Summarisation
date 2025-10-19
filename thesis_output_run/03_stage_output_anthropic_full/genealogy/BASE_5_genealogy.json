@@ -1,0 +1,26 @@
+{
+  "base_prompt_id": "BASE_5",
+  "base_prompt_name": "Comprehensive Summary",
+  "children_count": 11,
+  "children": [
+    "BASE_5_PARAPHRASE_1",
+    "BASE_5_PARAPHRASE_2",
+    "BASE_5_CONSTRAINT_1",
+    "BASE_5_CONSTRAINT_2",
+    "BASE_5_DETAIL_1",
+    "BASE_5_DETAIL_2",
+    "BASE_5_STRUCTURE_1",
+    "BASE_5_STRUCTURE_2",
+    "BASE_5_TONE_1",
+    "BASE_5_TONE_2",
+    "BASE_5_ADDITIONAL_1"
+  ],
+  "strategy_breakdown": {
+    "paraphrase": 2,
+    "constraint": 2,
+    "detail": 2,
+    "structure": 2,
+    "tone": 2,
+    "additional": 1
+  }
+}

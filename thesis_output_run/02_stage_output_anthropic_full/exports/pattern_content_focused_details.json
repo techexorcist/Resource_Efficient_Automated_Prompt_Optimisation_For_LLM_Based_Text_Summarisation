@@ -1,0 +1,22 @@
+{
+  "Content-Focused": {
+    "description": "Emphasizes key information",
+    "characteristics": [
+      "key points",
+      "main ideas",
+      "structured"
+    ],
+    "example": "Extract the main points and key findings.",
+    "complexity": 3,
+    "token_estimate": 30,
+    "use_case": "Information Extraction",
+    "advantages": [
+      "Structured output",
+      "Key info focus"
+    ],
+    "disadvantages": [
+      "May miss context"
+    ],
+    "best_for": "Research summaries"
+  }
+}

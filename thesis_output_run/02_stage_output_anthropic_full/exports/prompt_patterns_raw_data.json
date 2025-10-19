@@ -1,0 +1,115 @@
+{
+  "prompt_patterns": {
+    "Direct": {
+      "description": "Simple, direct instruction",
+      "characteristics": [
+        "minimal",
+        "clear",
+        "no constraints"
+      ],
+      "example": "Summarize this article.",
+      "complexity": 1,
+      "token_estimate": 15,
+      "use_case": "Baseline/Control",
+      "advantages": [
+        "Fast",
+        "Low cost",
+        "Clear"
+      ],
+      "disadvantages": [
+        "No guidance",
+        "Variable quality"
+      ],
+      "best_for": "Quick summaries"
+    },
+    "Length-Constrained": {
+      "description": "Specifies output length",
+      "characteristics": [
+        "word/sentence limit",
+        "concise",
+        "focused"
+      ],
+      "example": "Summarize in 50-100 words.",
+      "complexity": 2,
+      "token_estimate": 25,
+      "use_case": "Controlled Output",
+      "advantages": [
+        "Consistent length",
+        "Predictable"
+      ],
+      "disadvantages": [
+        "May truncate important info"
+      ],
+      "best_for": "Standardized reports"
+    },
+    "Style-Specified": {
+      "description": "Defines writing style",
+      "characteristics": [
+        "tone specification",
+        "audience-aware",
+        "formatted"
+      ],
+      "example": "Write a professional summary for executives.",
+      "complexity": 3,
+      "token_estimate": 35,
+      "use_case": "Professional Communication",
+      "advantages": [
+        "Audience-appropriate",
+        "Consistent tone"
+      ],
+      "disadvantages": [
+        "Higher cost",
+        "May be verbose"
+      ],
+      "best_for": "Business communications"
+    },
+    "Content-Focused": {
+      "description": "Emphasizes key information",
+      "characteristics": [
+        "key points",
+        "main ideas",
+        "structured"
+      ],
+      "example": "Extract the main points and key findings.",
+      "complexity": 3,
+      "token_estimate": 30,
+      "use_case": "Information Extraction",
+      "advantages": [
+        "Structured output",
+        "Key info focus"
+      ],
+      "disadvantages": [
+        "May miss context"
+      ],
+      "best_for": "Research summaries"
+    },
+    "Role-Based": {
+      "description": "Assumes specific role/perspective",
+      "characteristics": [
+        "persona",
+        "expertise",
+        "viewpoint"
+      ],
+      "example": "As a news editor, summarize this article.",
+      "complexity": 2,
+      "token_estimate": 22,
+      "use_case": "Contextual Expertise",
+      "advantages": [
+        "Expert perspective",
+        "Context-aware"
+      ],
+      "disadvantages": [
+        "Role dependency"
+      ],
+      "best_for": "Domain-specific content"
+    }
+  },
+  "analysis_metadata": {
+    "total_patterns": 5,
+    "avg_complexity": 2.2,
+    "avg_tokens": 25.4,
+    "complexity_range": "1-3",
+    "token_range": "15-35",
+    "export_timestamp": "2025-09-27T20:41:11.059052"
+  }
+}

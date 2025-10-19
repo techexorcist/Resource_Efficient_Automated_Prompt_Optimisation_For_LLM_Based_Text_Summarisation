@@ -1,0 +1,17 @@
+{
+  "base_prompts_file": "/Users/vinodhnagarajaiah/thesis/thesis_execution/thesis_run/02_stage_output_anthropic_full/exports/base_prompts_complete.json",
+  "target_variations_per_base": 10,
+  "total_target_variations": 51,
+  "variation_strategies": [
+    "paraphrasing",
+    "constraint_modification",
+    "detail_adjustment",
+    "structure_variation",
+    "tone_modification"
+  ],
+  "performance_baseline": {
+    "best_performance_score": 0.43720085076368925,
+    "average_performance_score": 0.3934921803432615,
+    "target_improvement": 0.1
+  }
+}

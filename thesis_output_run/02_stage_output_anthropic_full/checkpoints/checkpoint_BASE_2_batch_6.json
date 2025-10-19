@@ -1,0 +1,697 @@
+{
+  "prompt_id": "BASE_2",
+  "batch_num": 6,
+  "timestamp": "2025-09-27T21:03:18.850308",
+  "results": {
+    "prompt_id": "BASE_2",
+    "prompt_name": "Length-Constrained",
+    "summaries": [
+      "Here's a 70-word summary:\n\nBihar police arrested three suspected terrorists with alleged ISI connections in East Champaran district. The accused reportedly confessed to being paid Rs 3 lakh by a Nepalese contact to plant a bomb on railway tracks, which was fortunately detected and defused. Authorities are investigating potential links to the Kanpur train derailment and are seeking two additional suspects. The anti-terrorism squad is conducting further investigations into the case.",
+      "Vin Diesel is in India for the premiere of xXx: Return of Xander Cage, which marks Deepika Padukone's Hollywood debut. The film is releasing in India a week before the US. Diesel praised Padukone, calling her \"an angel with a beautiful soul\" and \"the queen of the whole world\" after seeing her performance in Bajirao Mastani.",
+      "Here's a 70-word summary:\n\nThe Central Board of Secondary Education (CBSE) has issued an advisory warning schools against commercial activities like selling books, uniforms, and stationery within school premises. The board emphasized that educational institutions are not commercial establishments and should focus on providing quality education. CBSE also reiterated its directive for schools to use only NCERT textbooks and avoid pressuring parents to purchase books from specific vendors.",
+      "Here's a summary in 74 words:\n\nSwaraj India leaders alleged that a south Delhi mall initially denied entry to a group of children from Maharashtra whose parents committed suicide due to agrarian crisis. The children, brought to Delhi for a farmer's protest, were reportedly stopped by a security guard. After intervention and potential media attention, the mall management allowed them entry and provided a tour. Yogendra Yadav and other party members claimed the mall's subsequent hospitality was merely a damage control exercise.",
+      "Here's a 70-word summary:\n\nIndia's Central Drugs Standard Control Organization has identified several popular medications as substandard, including Combiflam (pain reliever), D Cold Total (cold medicine), Oflox-100 DT (antibiotic), Theo Asthalin (respiratory medication), and Cadilose (constipation treatment). Manufactured by companies like Sanofi and Cipla, these drugs failed various quality tests in March 2017. Sanofi acknowledged issues with certain Combiflam batches from 2015, while Cadila Pharmaceuticals has not yet commented.",
+      "Here's a summary in 70 words:\n\nAAP leader Kapil Mishra released a sting operation alleging a CNG kit scam in Delhi. Members of Aam Aadmi Sena tested four CNG checking centers, obtaining pass certificates for a leaking cylinder that failed the hydrostatic stretch test. Mishra claimed the Delhi government is complicit, calling it a \"ticking time bomb\" affecting 20 lakh CNG users. The group has given the government four days to address the issue or face street protests.",
+      "Samajwadi Party chief Mulayam Singh Yadav claims ownership of the party and public support, asserting his clean record. His brother Shivpal Singh Yadav reaffirmed his loyalty, stating he will always stand by Mulayam, who remains the national president. They are preparing to approach the Election Commission of India regarding party matters.",
+      "Here's a 70-word summary:\n\nThe CBI has filed a case against Sidh Sales Syndicate and unidentified Guns Carriage Factory officials for supplying counterfeit Chinese-made parts disguised as German-manufactured bearings for Dhanush artillery guns. The company allegedly procured bearings from a Chinese manufacturer and falsely labeled them as \"Made in Germany,\" submitting fraudulent origin certificates. These bearings were intended for critical components of India's indigenized Bofors gun system, potentially compromising defense equipment quality.",
+      "Here's a summary in 70 words:\n\nFormer Delhi Chief Minister Sheila Dikshit described the Municipal Corporation of Delhi (MCD) elections as a crucial test for Congress leader Ajay Maken. She criticized Arvinder Singh Lovely for joining the BJP, calling him an \"opportunist\". Dikshit suggested that if Congress wins a significant number of seats, it would validate Maken's leadership and counter criticisms about his performance. Her own name was notably absent from the party's list of top campaigners.",
+      "Here's a summary in 74 words:\n\nIndia replaced injured spinner Amit Mishra with Kuldeep Yadav, a left-arm chinaman bowler, for the one-off Test against Bangladesh. Chinaman bowling is a rare left-arm wrist spin technique where the ball turns into right-handed batsmen, creating unexpected challenges. The term originated in 1933 when West Indian spinner Ellis Achong dismissed an English batsman, who reportedly commented about being out by a \"Chinaman\". Fewer than 30 international cricketers have specialized in this unique bowling style.",
+      "Here's a 70-word summary:\n\nBritish Foreign Secretary Boris Johnson visited New Zealand to strengthen bilateral ties as Britain prepares to leave the EU. During his trip to Kaikoura, he praised the local community for helping stranded British tourists after a recent earthquake. Johnson joked about the traditional M\u0101ori greeting, the hongi, suggesting it might be misinterpreted as a head butt in Glasgow. He described New Zealand as incredibly beautiful and praised its landscape as worthy of Tolkien's imagination.",
+      "In a gesture of goodwill, Prime Minister Narendra Modi wished Chinese people a happy Year of the Rooster through Weibo, a popular Chinese social media platform. He extended greetings on the Spring Festival, marking the transition from the Year of the Monkey. Modi, who opened his Weibo account during a 2015 visit, continues to engage with the Chinese people.",
+      "Here's a 70-word summary:\n\nBJP MLA Brijesh Singh's election victory posters in Saharanpur, Uttar Pradesh, have sparked controversy by renaming Deoband as \"Deovrind\". Singh claims the renaming is about development and historical significance, citing ancient connections to the Mahabharata. However, the Muslim community, particularly those associated with the renowned Darul Uloom Islamic learning center, strongly oppose the move. Students and community leaders argue that the name change is unnecessary and will not improve local infrastructure or education.",
+      "Mulayam Singh Yadav, Samajwadi Party patriarch, has directed party workers to file nominations against Congress candidates in 105 Uttar Pradesh constituencies. Expressing strong opposition to the SP-Congress alliance, he claims it will destroy the party and has refused to campaign for it, despite his son Akhilesh Yadav's support for the coalition.",
+      "Here's a 70-word summary:\n\nBatting coach Sanjay Bangar acknowledges that Anil Kumble's departure as head coach has left a void in the Indian cricket team. Despite the changes, the team remains professional and focused, with senior players like Dhoni, Yuvraj, and Kohli providing guidance. Bangar emphasizes the importance of trust between coaches and players, and believes the team can continue moving forward and maintaining performance despite the coaching transition.",
+      "Here's a summary in 70 words:\n\nNear Vellore, an arranged marriage took an unexpected turn when the groom's younger brother suddenly replaced him during the wedding ceremony by tying the thali (holy thread) to the bride. It was revealed that the bride and younger brother had been in a secret relationship. Despite family shock and attempts to prevent the marriage, the couple remained committed to each other, with the bride refusing to marry anyone else.",
+      "During the Amazon Prime Day sale, OnePlus 5 experienced a significant sales surge, with Amazon reporting up to 6 times higher hourly sales compared to previous periods. The smartphone became the best-selling device on the platform, reflecting strong consumer interest and popularity. OnePlus's General Manager expressed satisfaction with the nationwide response to the new device.",
+      "Quentin Tarantino is developing a new film about the Manson Family murders, focusing on Sharon Tate's story. The project is in early stages, with the Weinstein brothers involved and potential A-list actors like Brad Pitt and Jennifer Lawrence being approached. The film aims to start shooting in 2018 and will explore the brutal killings orchestrated by Charles Manson in 1969.",
+      "Here's a summary in 75 words:\n\nTwenty-four cyclists will pedal 250 kilometers daily across five Indian states to raise awareness about human trafficking and child labor. India ranks fourth globally in modern slavery, with 1.35 lakh children missing in 2015. The expedition will cover 1,500 kilometers, stopping in various cities and villages to conduct awareness programs. The cyclists aim to highlight the vulnerability of women and children to trafficking, drawing attention to the widespread issue of illegal child employment, particularly in tribal regions.",
+      "Here's a 70-word summary:\n\nKarnataka's government transferred deputy inspector general Roopa D Moudgil and prison director HN Satyanarayana Rao after Moudgil alleged that AIADMK leader VK Sasikala received preferential treatment in Bengaluru Central Prison through a Rs 2 crore bribe. The government claims the transfers are to ensure a fair investigation, led by a retired IAS officer. Opposition parties, including JD(S) and BJP, criticized the move and called for a more comprehensive probe.",
+      "Here's a summary in 74 words:\n\nQatar has filed a comprehensive legal complaint at the World Trade Organization (WTO) challenging the trade boycott imposed by Saudi Arabia, Bahrain, and the United Arab Emirates. The complaint addresses trade restrictions, including port and travel bans, digital service blockages, and maritime border closures. Qatar seeks to resolve the dispute through consultations, triggered by a 60-day deadline. The boycotting countries previously cited national security as justification for their actions, which Qatar disputes, hoping for a diplomatic resolution.",
+      "Here's a summary in 74 words:\n\nKaran Singh, an 8-year-old from Meerut, India, stands at an extraordinary 6 feet 6 inches tall, making him the world's tallest 8-year-old. Born weighing 7.8 kg and measuring 63 cm, he previously entered the Guinness World Records as the heaviest and tallest newborn. Coming from a tall family, with his mother being 7 feet 2 inches and his father 6 feet 7 inches, Karan aspires to be a basketball player or doctor.",
+      "Here's a summary in 72 words:\n\nThe Indian government is launching a nationwide toll-free helpline (14444) to support and educate people about digital payments. Nasscom is collaborating with the Department of Telecommunications to provide call center support for the initiative. The helpline aims to raise awareness and guide individuals in choosing the most suitable digital payment method based on their personal technological capabilities and resources, such as phone type, Aadhaar number, and bank account status.",
+      "Here's a summary in 72 words:\n\nWest Indies cricketer Marlon Samuels, who recently played in the Pakistan Super League (PSL) final in Lahore, expressed his deep admiration for Pakistan. After meeting the Pakistan Army chief, Samuels declared himself \"a Pakistani at heart\" and praised the country's security arrangements. He emphasized that his participation in the PSL was more than just playing cricket, but about bringing joy to people and experiencing the significance of the tournament.",
+      "Here's a summary in 74 words:\n\nSteve Whitmire, who voiced Kermit the Frog for 27 years after Jim Henson's death, was fired from the role against his will. In an emotional blog post, he expressed deep disappointment and described the Muppets as his life's calling. Whitmire said he tried to resolve issues with his bosses but was ultimately replaced by Matt Vogel. He apologized to fans and said he was devastated to have failed his mentor, Jim Henson.",
+      "Max Healthcare and Lilavati Hospital have denied overcharging patients for stents, asserting they are complying with National Pharmaceutical Pricing Authority (NPPA) guidelines. The NPPA has issued show cause notices to these hospitals following preliminary investigations into stent pricing, with both institutions maintaining they are following government regulations on pricing.",
+      "Here's a summary in 72 words:\n\nMumbai airport received an anonymous threat about a potential bomb placement and plane hijacking, prompting heightened security measures across multiple airports. Chennai's Arignar Anna airport increased security levels seven-fold, with CISF personnel patrolling with loaded weapons. Airport terminals restricted visitor entry, and airlines were instructed to conduct thorough luggage checks. Central Intelligence has been alerted to possible terrorist organization plans, leading to increased vigilance at Mumbai, Chennai, and Hyderabad airports.",
+      "Here's a 70-word summary:\n\nFarmer leaders in Greater Noida are opposing the Jewar airport project due to low land compensation rates. They plan to campaign against land acquisition, urging villagers not to sell their land at Rs3,500 per square metre. The farmers argue that the compensation is unfair, citing higher rates in nearby Ghaziabad. They threaten to protest and potentially block the project if the government does not increase the compensation rates for land acquisition.",
+      "Here's a summary in 75 words:\n\nSri Lanka's sports minister supports an investigation into the country's controversial 2011 Cricket World Cup final loss against India. Former sports minister Mahindananda Aluthgamage and ex-captain Arjuna Ranatunga have raised suspicions of match-fixing, citing unusual team changes and poor on-field performance. The match, which Sri Lanka lost by six wickets, has long been a source of speculation. The current sports minister says he will launch a probe if a formal complaint is submitted, highlighting ongoing concerns about potential corruption in cricket.",
+      "Here's a 72-word summary:\n\nThe railway ministry plans to introduce an integrated ticketing system in Mumbai over the next three years, aiming to unify public transport tickets across BEST buses, local trains, metros, taxis, and autorickshaws. The Mumbai Metropolitan Region Development Authority (MMRDA) project will be implemented in two stages, first integrating software and then installing entry/exit gates. Officials hope over 80% of suburban commuters will use the all-in-one tickets, potentially reducing operational costs and improving travel convenience.",
+      "Actress Gwendoline Christie, who plays Brienne of Tarth in \"Game of Thrones,\" praised the show for its groundbreaking portrayal of female characters. She highlighted that the HBO series uniquely placed women at the forefront, exploring their narratives in a way that differs from traditional television storytelling, marking it as a significant game-changer in representing women on screen.",
+      "Here's a 70-word summary:\n\nDelhi Police arrested Puran Gupta, a 33-year-old man who allegedly possessed personal banking details of nearly 10 million Indians. He would sell this data to fake call centres, which used the information to trick victims into revealing OTPs and steal money. The data was classified by age groups, income, and credit card limits, with details sold for as little as 10 paise per record. Police are investigating potential bank employee involvement.",
+      "Here's a 70-word summary:\n\nRatan Tata emphasized the need for government and industry to collaborate in creating an environment that supports innovators and helps them bring ideas to market. Speaking at a round-table on start-ups and innovation, he highlighted that innovations are not just about profits but also about serving the common good. President Pranab Mukherjee also called for rethinking financial instruments to support grassroots innovation.",
+      "Union Minister Nitin Gadkari announced plans to four-lane the Mumbai-Goa highway with 1,300 roadside amenities, including helipads and local produce outlets. The project aims to reduce accidents and travel distance, with construction divided into four packages in Goa and eleven in Maharashtra, focusing on international standards and tourism potential.",
+      "Bollywood actors Arbaaz Khan and Malaika Arora ended their 17-year marriage, with Arbaaz confirming in an interview that reconciliation was unlikely. He stated that he has moved on and is currently dating someone, though the relationship is still in early stages. Despite rumors about a mystery woman, Arbaaz maintains they are just friends.",
+      "Here's a 72-word summary:\n\nBJP MP Meenakshi Lekhi defended the Jawaharlal Nehru University (JNU) Vice Chancellor's proposal to install a battle tank on campus, arguing it would inspire patriotism. She criticized students for allegedly raising \"anti-India\" slogans and insisted that JNU students should take an oath to protect national pride. Lekhi compared the tank installation to aircraft displays in schools and argued that the initiative would be educational and motivational for students, despite criticism from political parties and students.",
+      "A man was booked for hurting religious sentiments after making derogatory comments about Shiv Sena founder Bal Thackeray on Facebook. The complaint was filed by a builder who saw the offensive post related to an Amarnath yatra terror attack. Police registered a case under Section 295A of the IPC and plan to summon both the post's author and the commenter for questioning.",
+      "The Border Security Force (BSF) has initiated Operation Sard Hawa along Rajasthan's western international border to enhance surveillance and prevent potential infiltration during foggy conditions. The heightened security measure will be in effect from January 15 to January 28, aiming to mitigate risks posed by reduced visibility in the region.",
+      "Here's a 70-word summary:\n\nBaahubali: The Conclusion has been a massive success, becoming the first Indian film to gross Rs 1000 crore. The movie answers the long-standing question of why Katappa killed Baahubali. Despite fan speculation, the creators have confirmed there won't be a Baahubali 3, but the story will continue through comic and TV series. The film stars Prabhas, Rana Daggubati, and others, and has received widespread acclaim from audiences and celebrities.",
+      "Here's a 75-word summary:\n\nA suspected burglar named Nitin died after being shot during an alleged burglary attempt in Rohini, North Delhi. Police say Nitin and an accomplice, Salman, fired at officers first, prompting them to retaliate in self-defense. Two policemen who were involved in the encounter donated blood to try to save Nitin's life. Though he underwent surgery, he succumbed to his injuries. No case will be filed against the policemen, and the National Human Rights Commission will be informed about the incident.",
+      "The Allahabad High Court will rehear the appeals of Rajesh and Nupur Talwar, who were convicted for the murder of their daughter Aarushi and domestic help Hemraj. The court cited \"contradictions\" in the CBI's submissions and will resume the hearing on August 31, seven months after initially reserving judgment on their life imprisonment sentence.",
+      "Here's a 70-word summary:\n\nPranab Mukherjee, India's 13th President, concludes his nearly 50-year political career after serving in various ministerial roles, including finance, external affairs, and defense. Known for his close association with Indira Gandhi and his extensive pipe collection, Mukherjee sought to make Rashtrapati Bhavan more accessible to the public. Despite differences, he maintained a respectful relationship with Prime Minister Narendra Modi, who considered him a mentor.",
+      "Here's a summary in 75 words:\n\nReliance Jio has accused Bharti Airtel of violating telecom tariff rules by offering discriminatory plans. Jio alleges that Airtel's Rs 293 and Rs 449 plans provide 1 GB daily data only to new 4G handset and SIM customers, while other subscribers receive just 50 MB daily. Jio claims this is an arbitrary classification that violates telecom regulations. Airtel denies the allegations, calling them a standard tactic by Jio to blame other operators for its own issues.",
+      "In a historic move, Pakistan's Sindh province has recruited 46 women for its counter-terrorism department, marking the first such recruitment in the region. Selected through rigorous testing, these women will undergo six-month training by the Pakistan Army and be inducted into the regular police force, alongside 1,461 male recruits, to support combat operations and intelligence gathering.",
+      "Here's a summary in 74 words:\n\nThe Indian government has invited 40 tribal guests from across the country to attend the Republic Day parade in New Delhi. They will witness the 95-minute event featuring 23 tableaux representing states and government departments, and will have the opportunity to meet top government officials including the President, Vice President, and Prime Minister. The parade will also include 21 national bravery award-winning children and cultural performances.",
+      "Here's a 70-word summary:\n\nSoftBank-backed Ola reported a consolidated loss of Rs 2,311 crore in fiscal 2015-16, nearly tripling its losses from the previous year. Despite heavy spending on advertising, promotions, and employee costs, the company saw revenue growth from Rs 103.77 crore to Rs 758.23 crore. An industry expert noted that while absolute losses increased, the loss margin per rupee earned reduced significantly, indicating potential improvement in financial efficiency.",
+      "Here's a summary in 74 words:\n\nA Los Angeles judge has rejected filmmaker Roman Polanski's attempt to resolve his 40-year-old rape case, ruling that he cannot seek court resolution while refusing to return to the US. Polanski, who fled in 1978 after pleading guilty to raping a 13-year-old girl, remains a French citizen not subject to extradition. The judge emphasized that Polanski cannot engage with the court while standing in contempt of it, leaving the decades-old legal matter unresolved.",
+      "Here's a summary in 72 words:\n\nPakistan's electronic media regulator PEMRA issued a notice to Channel 24 for broadcasting an unauthentic audio clip allegedly from the crashed PIA flight PK-661. The clip, which claimed to be the last audio before the crash, was later revealed to be from a different incident. The channel has been asked to explain its actions by December 15 and provide evidence of the recording's authenticity, with potential fines of Rs 10 million if it fails to do so.",
+      "Here's a 70-word summary:\n\nFormer Samajwadi Party leader Amar Singh has criticized party President Akhilesh Yadav following the exit of two party legislators from the UP Legislative Council. Singh claims the party has a dark future without Mulayam Singh Yadav and has compared Akhilesh to Aurangzeb, suggesting he has mishandled power. He also praised Prime Minister Modi and highlighted the party's decline from a national to a regional political entity.",
+      "Here's a summary in 75 words:\n\nMinister MJ Akbar announced the government's plan to establish passport centers every 50 km, emphasizing that passport is a right, not a gift. He inaugurated two Post Office Passport Seva Kendras (POPSKs) in Kolkata and Nadia district, highlighting the vision to make passport services more accessible. Akbar noted the collaboration between postal and passport departments and stressed the aim to transform passport offices from power centers to citizen-friendly service points, making the process less intimidating for applicants.",
+      "Here's a 70-word summary:\n\nFormer Indian cricket captain Mohammad Azharuddin criticized Rising Pune Supergiants for removing Mahendra Singh Dhoni as captain, calling the decision \"third-rate and disgraceful.\" The franchise replaced Dhoni with Steve Smith, citing a need for a younger captain with vision. Azharuddin defended Dhoni's leadership, highlighting his two IPL titles and arguing that blaming the captain for the team's poor performance is unfair and disrespectful to a sporting legend.",
+      "Here's a 72-word summary:\n\nA three-year-old girl, Sonakshi, was allegedly murdered by her father, Dheeraj Kumar, in Faridabad. Kumar claimed he wanted to become a tantrik and threw his daughter into a canal on July 11. After the child went missing, police investigated CCTV footage, which showed Kumar returning home alone. When confronted, he confessed to the crime. The girl's body was recovered from the canal the next day, and Kumar was arrested and remanded to police custody.",
+      "Here's a summary in 72 words:\n\nDeepika Padukone and Priyanka Chopra, two Bollywood actresses making waves in Hollywood, attended pre-Oscar events. Despite initially denying her attendance, Deepika appeared at the Women in Film cocktail party in a stunning black asymmetrical dress, following her Hollywood debut in xXx: Return Of Xander Cage. Priyanka, who previously made a splash at the Oscars with her white gown, was seen enjoying herself at the WME pre-Oscar party.",
+      "Here's a 70-word summary:\n\nActor Sathyaraj is facing protests from activist Vatal Nagaraj over controversial remarks about Kannadigas made nine years ago. Director SS Rajamouli and actor Rana Daggubati defended Sathyaraj, arguing that the comments were made long ago and did not previously cause issues during the release of Baahubali Part 1. The highly anticipated film Baahubali: The Conclusion, made on a budget of Rs 250 crore, is set to release on April 28.",
+      "Here's a 70-word summary:\n\nThe Natural History Museum in London has replaced its iconic Dippy the dinosaur skeleton with Hope, a blue whale skeleton, as the centerpiece of its Hintze Hall. Despite protests from fans who launched the #SaveDippy campaign, the museum aims to raise awareness about human impact on nature. The 25.2-metre skeleton represents the species' near-extinction due to commercial hunting and subsequent recovery, symbolizing the fragility of life and environmental responsibility.",
+      "Here's a summary in 70 words:\n\nThe Aam Aadmi Party's Goa chief ministerial candidate Elvis Gomes and former minister Nilkant Halankar have been summoned by the Anti-Corruption Branch (ACB) regarding a housing scam. The agency has requested their appearance by December 27, with allegations that Gomes implemented orders to sell land to a private builder in 2011. Gomes, who previously served as Goa's Inspector General of Prison, is now facing this corruption investigation.",
+      "In Patna City, violent clashes erupted between police and locals after authorities demolished a temple to widen a road ahead of Guru Gobind Singh's 350th birth anniversary celebration. The administration had previously issued notices to the temple, but faced resistance during the demolition, leading to confrontations with local residents.",
+      "Here's a 72-word summary:\n\nThe Oxford India Centre for Sustainable Development, originally named the Indira Gandhi Centre, was established at Somerville College, Oxford in 2013 with a \u00a33 million grant from India. After the Modi government came to power in 2014, the centre's name was changed, though college officials deny external pressure. The centre continues to support Indian scholars and conduct multidisciplinary research on sustainable development, maintaining its focus on advancing India's academic and research capabilities.",
+      "Here's a 70-word summary:\n\nThe ruling AIADMK has threatened legal action against Karnataka police official D Roopa for alleging that VK Sasikala received special treatment in prison. The party claims Roopa's charges are false and that Sasikala is following prison rules. Sasikala, currently serving a 4-year jail term for a disproportionate assets case, is entitled to certain amenities for prisoners under simple imprisonment. The Karnataka government had previously transferred Roopa after her allegations.",
+      "Here's a summary in 75 words:\n\nIn a school in Mewat, two Hindu students alleged they were forced to recite the Quran and perform Islamic practices by teachers and students. The incident came to light when the students sought a transfer certificate. The mother of one student complained about threats and coercion in the school and hostel. Only three out of 207 students were Hindu. District officials investigated the matter, and action was taken against the teachers involved in the alleged religious intimidation.",
+      "In the first ODI, Virat Kohli scored 122 runs, helping India chase down a 351-run target after being 63/4. Alongside Kedar Jadhav (120 runs), Kohli's performance secured a 1-0 lead for India. England pace bowler Jake Ball has indicated they will target Kohli with short balls in the upcoming second match.",
+      "In early 2017, Shah Rukh Khan's Raees and Hrithik Roshan's Kaabil clashed at the box office, with Kaabil's producer alleging unfair screen distribution. Weeks later, Kaabil's director Sanjay Gupta seemingly tweeted about karma, hinting at a potential rivalry, as another box office showdown looms with Akshay Kumar and Shah Rukh Khan's films set to release on the same day.",
+      "Here's a summary in 72 words:\n\nAfter Pakistan's victory in the ICC Champions Trophy final, a Pakistani fan verbally abused Indian players, particularly targeting Virat Kohli with derogatory comments. While Kohli remained composed and walked away, the fan continued to mock the team. When the fan asked \"who's the father?\" Mohammed Shami became agitated, but MS Dhoni intervened and prevented a potential confrontation. The incident occurred during the presentation ceremony amid massive celebrations by Pakistani supporters.",
+      "Here's a summary in 72 words:\n\nVeteran actor Anupam Kher reflects on his Hollywood journey, noting that unlike today's stars like Priyanka Chopra, he didn't receive widespread recognition during his international film career. He praises Chopra as India's biggest international star and credits social media for increasing global visibility. Kher has appeared in notable films like Bend It Like Beckham and has upcoming Hollywood projects, including The Big Sick and A Family Man.",
+      "The Uttar Pradesh police have established \"anti-Romeo squads\" in 11 districts around Lucknow to combat eve-teasing and harassment of women. The initiative, part of the BJP's election promise, aims to take action against offenders under the Goonda Act. The order also emphasizes efforts to prevent cow slaughter and cattle smuggling.",
+      "Here's a 70-word summary:\n\nIn a retaliatory action, the Indian army destroyed two Pakistani bunkers and killed seven soldiers after Pakistan's Border Action Team killed and mutilated the bodies of two Indian soldiers in the Krishna Ghati Sector of Jammu and Kashmir. Defence Minister Arun Jaitley condemned the \"inhuman act\" and warned of retaliation, while Army Chief General Bipin Rawat reached Srinagar to assess the security situation.",
+      "Here's a summary in 75 words:\n\nO. Panneerselvam (OPS), leader of the AIADMK (Puratchi Thalaivi Amma) faction, criticizes Edappadi Palaniswami (EPS) for functioning under Sasikala Natarajan's guidance. He denies allegations of corruption and links with mining baron Sekhar Reddy. Praising Prime Minister Narendra Modi as dynamic and corruption-free, OPS supports the NDA's presidential nominee. He remains open to a potential alliance with Rajinikanth and aims to strengthen the party cadre while preparing for a possible mid-term Assembly election.",
+      "Here's a summary in 74 words:\n\nThe UN reported that over 1 million people were displaced from Mosul during the battle against ISIS, with nearly 200,000 returning home. Of the 1.05 million who fled, 825,000 remain displaced. Iraqi Prime Minister Haider al-Abadi recently declared Mosul fully liberated from ISIS, though the Old City remains difficult to access due to ongoing demining and clearing operations. The International Organization for Migration highlighted the significant humanitarian crisis in the area.",
+      "Chanda Kochhar, ICICI Bank's MD & CEO, received a total remuneration of Rs 7.85 crore in 2016-17, a 64% increase from the previous year. Her basic salary rose over 15% to Rs 2.67 crore, and she earned a performance bonus of Rs 2.2 crore, marking a significant improvement from the bank's weak financial status in 2015-16.",
+      "Here's a 70-word summary:\n\nThe National Green Tribunal has announced a R10,000 fine for improper garbage disposal in Delhi, addressing the city's significant municipal solid waste problem. The new regulations require all waste generators, including hotels, restaurants, and markets, to properly segregate and dispose of waste according to 2016 Solid Waste Management Rules. The tribunal emphasized the polluter pays principle and directed civic bodies to develop comprehensive waste management strategies and incentivize proper waste handling.",
+      "Here's a summary in 75 words:\n\nAs Goa prepares for assembly elections on February 4, the political landscape features a triangular battle between BJP, Congress, and Aam Aadmi Party (AAP). AAP leader Arvind Kejriwal launched his campaign in Benaulim, promising zero tolerance for corruption and communalism. He criticized the ruling BJP government and urged Goans to vote for change, presenting AAP's chief ministerial candidate Elvis Gomes. Kejriwal emphasized AAP's commitment to honest politics and fielding strong, younger candidates.",
+      "Here's a 70-word summary:\n\nSamajwadi Party chief Akhilesh Yadav launched a sharp attack on Prime Minister Narendra Modi during an election rally in Raebareli. He criticized Modi over a Gujarat Tourism advertisement featuring Amitabh Bachchan, sarcastically referring to the ad's depiction of wild donkeys. This came a day after Modi's controversial remarks about equal treatment of Hindu and Muslim festivals, which drew criticism from the Opposition, who accused him of attempting to communalize the election atmosphere.",
+      "Here's a 70-word summary:\n\nThe Cricket Advisory Committee, comprising Sourav Ganguly, Sachin Tendulkar, and VVS Laxman, selected Ravi Shastri as Team India's new head coach after consulting with captain Virat Kohli. Zaheer Khan was named bowling coach, and Rahul Dravid will be batting coach for overseas tours. Shastri, who previously served as team director from 2014-2016, returns to the role after being encouraged by Tendulkar to apply for the position.",
+      "Here's a 72-word summary:\n\nFollowing the infamous topper scam, the Bihar School Examination Board implemented stricter evaluation processes, resulting in a significant drop in pass rates. Of the 1,240,168 students who appeared for Class 12 exams, 64.07% failed, with the Science stream experiencing the most dramatic decline from 89.32% in 2015 to just 30.11% this year. The board used technology like bar-coding answer sheets and thoroughly reviewed results to ensure fairness, with toppers receiving cash prizes and laptops.",
+      "Here's a 70-word summary:\n\nAt a Hindu convention in Panaji, Sadhvi Saraswati sparked controversy by calling for those who eat beef to be publicly hanged, claiming it disrespects \"gau mata\" (mother cow). She also urged Hindus to arm themselves, stating that India is under attack. The Congress party criticized her remarks as inciting communal hatred and demanded the Goa government file an FIR against her for promoting violence and making inflammatory statements.",
+      "In Bengaluru, 44 Congress MLAs are confined to a resort under strict supervision by Minister DK Shivakumar. While he is in New Delhi, 30 MLAs are monitoring the group's discipline. Some defiant MLAs have managed to venture out for sightseeing and shopping, with the party selectively allowing trusted members more freedom.",
+      "Here's a summary in 74 words:\n\nJhanvi Kapoor and Ishaan Khatter are reportedly set to star in the remake of \"The Fault In Our Stars,\" directed by Shashank Khaitan under Karan Johar's production. The film comes after speculation about their potential Sairat remake collaboration. The pair, who are rumored to be dating in real life, have already begun look tests for the project. Ishaan is simultaneously preparing for his debut film \"Beyond The Clouds,\" while Jhanvi will make her first Bollywood appearance in this remake.",
+      "Here's a summary in 75 words:\n\nThe Indira Gandhi Institute of Medical Sciences (IGIMS) in Patna has drawn criticism for a marriage declaration form requiring employees to disclose their virginity status and marital details. The Deputy Medical Superintendent, Dr. Manish Mandal, defended the form as a long-standing practice based on Central Services Rules, aimed at preventing potential job claims by partners in case of an employee's death. He acknowledged that the term \"virgin\" was inappropriate and should be replaced with \"unmarried.\"",
+      "Here's a 70-word summary:\n\nThe BJP is refraining from celebrating potential election victories in the Delhi Municipal Corporation election out of respect for 25 CRPF personnel killed in a Maoist ambush in Chhattisgarh's Sukma district. Exit polls predict a significant BJP win, with the party expected to secure 202-220 of 270 wards, while AAP and Congress are projected to win 23-25 and 19-31 seats respectively. The party will mourn the martyred soldiers instead of celebrating.",
+      "Here's a summary in 70 words:\n\nDuring a candid episode of Koffee With Karan, Tiger Shroff opened up about his personal life and career alongside his father Jackie Shroff. He discussed his limited social circle, clarified his relationship status with Disha Patani, and expressed his desire to establish his own identity in Bollywood beyond being Jackie Shroff's son. The father-son duo shared an honest and revealing conversation about Tiger's professional and personal experiences.",
+      "In response to fresh clashes between Dalits and Rajputs in Saharanpur, which resulted in one fatality, the Yogi Adityanath government has removed SSP Subhash Chandra Dubey and District Magistrate N P Singh. Home Secretary Mani Prasad Mishra and other officials were sent to monitor the situation, with Deputy CM Keshav Prasad Maurya vowing to arrest those responsible for the violence.",
+      "Here's a 70-word summary:\n\nThe RSS is intensifying its campaign against Chinese goods, targeting the upcoming Rakshabandhan festival by discouraging traders from selling Chinese-made Rakhis. Volunteers from the RSS and its affiliates are promoting a boycott of Chinese products, citing national security concerns and tensions over the Doklam standoff. The campaign includes door-to-door awareness, planned rallies, and calls to challenge Chinese market penetration, with support from affiliated organizations like the Swadeshi Jagran Manch and Vishwa Hindu Parishad.",
+      "Bollywood actress Sonam Kapoor, known for her fashion influence, is auctioning her designer bags and clothes to support the Mumbai-based NGO Fight Hunger Foundation. As the organization's goodwill ambassador, she aims to raise awareness and funds for a cause she deeply cares about, demonstrating her commitment to social responsibility.",
+      "Delhi's three civic agencies are developing a mobile app to help users provide feedback on public toilet conditions. The app will allow users to rate toilets, report cleanliness issues, and locate facilities. Once feedback is received, teams will be dispatched to address problems, with cleaning arranged within hours and repairs within a week.",
+      "Here's a summary in 75 words:\n\nScientists have developed a groundbreaking technique using diamond fragments to create electrical wires just three atoms wide, which could revolutionize technology. By assembling atoms LEGO-style, researchers created nanowires with a semiconducting copper-sulphur core and an insulating diamondoid shell. The self-assembling process takes only half an hour and allows for precise, atom-by-atom construction. This method could potentially lead to advanced optoelectronic devices and materials with extraordinary electronic properties.",
+      "Here's a summary in 70 words:\n\nPrime Minister Narendra Modi is holding a political rally in Fatehpur, Uttar Pradesh, to support six local BJP candidates. Accompanied by party MP Sadhvi Niranjan Jyoti and other senior leaders, Modi is expected to draw a large crowd of around 200,000 people. The rally is part of the ongoing election campaign in the politically significant state of Uttar Pradesh, where the BJP is seeking to maintain its electoral dominance.",
+      "In Raisen district, Madhya Pradesh, a local government body has fined 13 families approximately Rs 4 lakh for practicing open defecation. This action highlights the ongoing efforts to enforce sanitation regulations and discourage the unhygienic practice of relieving oneself in public spaces, which can pose health risks to the community.",
+      "Bollywood actor Akshay Kumar apologized for incorrectly holding the Indian national flag while cheering the women's cricket team during the World Cup final. He removed the controversial picture from social media after facing criticism for violating the flag code, expressing that he did not intend to offend anyone. His fans supported him during the incident.",
+      "A public interest litigation has been filed in Bombay High Court seeking a 24-hour helpline and protection for trade and transport during Bakri Eid. The petition demands government action against cow vigilantism, including collecting information about vigilante groups and maintaining lists of gaurakshaks at police stations to prevent illegal raids and potential violence.",
+      "MNS, led by Raj Thackeray, has written letters to Mumbai real estate developers urging them to stop discriminating against potential flat buyers based on caste, creed, religion, or dietary preferences. The party specifically targets builders who refuse to sell flats to non-vegetarian people and threatens legal action if such practices continue."
+    ],
+    "metrics": [],
+    "characteristics": [
+      {
+        "char_count": 485,
+        "word_count": 71,
+        "sentence_count": 4,
+        "avg_word_length": 6.830985915492958
+      },
+      {
+        "char_count": 325,
+        "word_count": 56,
+        "sentence_count": 3,
+        "avg_word_length": 5.803571428571429
+      },
+      {
+        "char_count": 491,
+        "word_count": 68,
+        "sentence_count": 3,
+        "avg_word_length": 7.220588235294118
+      },
+      {
+        "char_count": 531,
+        "word_count": 82,
+        "sentence_count": 4,
+        "avg_word_length": 6.475609756097561
+      },
+      {
+        "char_count": 536,
+        "word_count": 69,
+        "sentence_count": 3,
+        "avg_word_length": 7.768115942028985
+      },
+      {
+        "char_count": 471,
+        "word_count": 78,
+        "sentence_count": 4,
+        "avg_word_length": 6.038461538461538
+      },
+      {
+        "char_count": 341,
+        "word_count": 51,
+        "sentence_count": 3,
+        "avg_word_length": 6.686274509803922
+      },
+      {
+        "char_count": 549,
+        "word_count": 72,
+        "sentence_count": 3,
+        "avg_word_length": 7.625
+      },
+      {
+        "char_count": 500,
+        "word_count": 77,
+        "sentence_count": 4,
+        "avg_word_length": 6.4935064935064934
+      },
+      {
+        "char_count": 539,
+        "word_count": 80,
+        "sentence_count": 4,
+        "avg_word_length": 6.7375
+      },
+      {
+        "char_count": 516,
+        "word_count": 78,
+        "sentence_count": 4,
+        "avg_word_length": 6.615384615384615
+      },
+      {
+        "char_count": 359,
+        "word_count": 59,
+        "sentence_count": 3,
+        "avg_word_length": 6.084745762711864
+      },
+      {
+        "char_count": 559,
+        "word_count": 77,
+        "sentence_count": 4,
+        "avg_word_length": 7.259740259740259
+      },
+      {
+        "char_count": 349,
+        "word_count": 51,
+        "sentence_count": 2,
+        "avg_word_length": 6.8431372549019605
+      },
+      {
+        "char_count": 470,
+        "word_count": 69,
+        "sentence_count": 3,
+        "avg_word_length": 6.811594202898551
+      },
+      {
+        "char_count": 455,
+        "word_count": 75,
+        "sentence_count": 3,
+        "avg_word_length": 6.066666666666666
+      },
+      {
+        "char_count": 380,
+        "word_count": 55,
+        "sentence_count": 3,
+        "avg_word_length": 6.909090909090909
+      },
+      {
+        "char_count": 377,
+        "word_count": 60,
+        "sentence_count": 3,
+        "avg_word_length": 6.283333333333333
+      },
+      {
+        "char_count": 561,
+        "word_count": 83,
+        "sentence_count": 4,
+        "avg_word_length": 6.759036144578313
+      },
+      {
+        "char_count": 494,
+        "word_count": 73,
+        "sentence_count": 3,
+        "avg_word_length": 6.767123287671233
+      },
+      {
+        "char_count": 587,
+        "word_count": 83,
+        "sentence_count": 4,
+        "avg_word_length": 7.072289156626506
+      },
+      {
+        "char_count": 445,
+        "word_count": 78,
+        "sentence_count": 3,
+        "avg_word_length": 5.705128205128205
+      },
+      {
+        "char_count": 516,
+        "word_count": 75,
+        "sentence_count": 3,
+        "avg_word_length": 6.88
+      },
+      {
+        "char_count": 490,
+        "word_count": 75,
+        "sentence_count": 3,
+        "avg_word_length": 6.533333333333333
+      },
+      {
+        "char_count": 451,
+        "word_count": 78,
+        "sentence_count": 4,
+        "avg_word_length": 5.782051282051282
+      },
+      {
+        "char_count": 381,
+        "word_count": 49,
+        "sentence_count": 2,
+        "avg_word_length": 7.775510204081633
+      },
+      {
+        "char_count": 578,
+        "word_count": 76,
+        "sentence_count": 4,
+        "avg_word_length": 7.605263157894737
+      },
+      {
+        "char_count": 482,
+        "word_count": 75,
+        "sentence_count": 4,
+        "avg_word_length": 6.426666666666667
+      },
+      {
+        "char_count": 593,
+        "word_count": 87,
+        "sentence_count": 4,
+        "avg_word_length": 6.816091954022989
+      },
+      {
+        "char_count": 563,
+        "word_count": 78,
+        "sentence_count": 3,
+        "avg_word_length": 7.217948717948718
+      },
+      {
+        "char_count": 390,
+        "word_count": 57,
+        "sentence_count": 2,
+        "avg_word_length": 6.842105263157895
+      },
+      {
+        "char_count": 474,
+        "word_count": 75,
+        "sentence_count": 4,
+        "avg_word_length": 6.32
+      },
+      {
+        "char_count": 454,
+        "word_count": 66,
+        "sentence_count": 3,
+        "avg_word_length": 6.878787878787879
+      },
+      {
+        "char_count": 353,
+        "word_count": 49,
+        "sentence_count": 2,
+        "avg_word_length": 7.204081632653061
+      },
+      {
+        "char_count": 341,
+        "word_count": 53,
+        "sentence_count": 3,
+        "avg_word_length": 6.433962264150943
+      },
+      {
+        "char_count": 548,
+        "word_count": 79,
+        "sentence_count": 3,
+        "avg_word_length": 6.936708860759493
+      },
+      {
+        "char_count": 373,
+        "word_count": 62,
+        "sentence_count": 3,
+        "avg_word_length": 6.016129032258065
+      },
+      {
+        "char_count": 345,
+        "word_count": 50,
+        "sentence_count": 2,
+        "avg_word_length": 6.9
+      },
+      {
+        "char_count": 473,
+        "word_count": 73,
+        "sentence_count": 4,
+        "avg_word_length": 6.47945205479452
+      },
+      {
+        "char_count": 527,
+        "word_count": 84,
+        "sentence_count": 5,
+        "avg_word_length": 6.273809523809524
+      },
+      {
+        "char_count": 347,
+        "word_count": 54,
+        "sentence_count": 2,
+        "avg_word_length": 6.425925925925926
+      },
+      {
+        "char_count": 494,
+        "word_count": 68,
+        "sentence_count": 3,
+        "avg_word_length": 7.264705882352941
+      },
+      {
+        "char_count": 499,
+        "word_count": 82,
+        "sentence_count": 4,
+        "avg_word_length": 6.085365853658536
+      },
+      {
+        "char_count": 391,
+        "word_count": 56,
+        "sentence_count": 2,
+        "avg_word_length": 6.982142857142857
+      },
+      {
+        "char_count": 484,
+        "word_count": 72,
+        "sentence_count": 3,
+        "avg_word_length": 6.722222222222222
+      },
+      {
+        "char_count": 483,
+        "word_count": 70,
+        "sentence_count": 3,
+        "avg_word_length": 6.9
+      },
+      {
+        "char_count": 495,
+        "word_count": 79,
+        "sentence_count": 3,
+        "avg_word_length": 6.265822784810126
+      },
+      {
+        "char_count": 487,
+        "word_count": 83,
+        "sentence_count": 3,
+        "avg_word_length": 5.867469879518072
+      },
+      {
+        "char_count": 455,
+        "word_count": 70,
+        "sentence_count": 3,
+        "avg_word_length": 6.5
+      },
+      {
+        "char_count": 562,
+        "word_count": 83,
+        "sentence_count": 3,
+        "avg_word_length": 6.771084337349397
+      },
+      {
+        "char_count": 495,
+        "word_count": 71,
+        "sentence_count": 3,
+        "avg_word_length": 6.971830985915493
+      },
+      {
+        "char_count": 481,
+        "word_count": 78,
+        "sentence_count": 5,
+        "avg_word_length": 6.166666666666667
+      },
+      {
+        "char_count": 470,
+        "word_count": 73,
+        "sentence_count": 3,
+        "avg_word_length": 6.438356164383562
+      },
+      {
+        "char_count": 462,
+        "word_count": 74,
+        "sentence_count": 3,
+        "avg_word_length": 6.243243243243243
+      },
+      {
+        "char_count": 501,
+        "word_count": 73,
+        "sentence_count": 3,
+        "avg_word_length": 6.863013698630137
+      },
+      {
+        "char_count": 474,
+        "word_count": 73,
+        "sentence_count": 3,
+        "avg_word_length": 6.493150684931507
+      },
+      {
+        "char_count": 340,
+        "word_count": 49,
+        "sentence_count": 2,
+        "avg_word_length": 6.938775510204081
+      },
+      {
+        "char_count": 535,
+        "word_count": 76,
+        "sentence_count": 3,
+        "avg_word_length": 7.0394736842105265
+      },
+      {
+        "char_count": 508,
+        "word_count": 73,
+        "sentence_count": 4,
+        "avg_word_length": 6.958904109589041
+      },
+      {
+        "char_count": 515,
+        "word_count": 83,
+        "sentence_count": 5,
+        "avg_word_length": 6.204819277108434
+      },
+      {
+        "char_count": 305,
+        "word_count": 51,
+        "sentence_count": 3,
+        "avg_word_length": 5.980392156862745
+      },
+      {
+        "char_count": 373,
+        "word_count": 59,
+        "sentence_count": 2,
+        "avg_word_length": 6.322033898305085
+      },
+      {
+        "char_count": 524,
+        "word_count": 76,
+        "sentence_count": 5,
+        "avg_word_length": 6.894736842105263
+      },
+      {
+        "char_count": 479,
+        "word_count": 73,
+        "sentence_count": 3,
+        "avg_word_length": 6.561643835616438
+      },
+      {
+        "char_count": 332,
+        "word_count": 50,
+        "sentence_count": 3,
+        "avg_word_length": 6.64
+      },
+      {
+        "char_count": 439,
+        "word_count": 67,
+        "sentence_count": 2,
+        "avg_word_length": 6.552238805970149
+      },
+      {
+        "char_count": 548,
+        "word_count": 78,
+        "sentence_count": 4,
+        "avg_word_length": 7.0256410256410255
+      },
+      {
+        "char_count": 514,
+        "word_count": 77,
+        "sentence_count": 4,
+        "avg_word_length": 6.675324675324675
+      },
+      {
+        "char_count": 321,
+        "word_count": 56,
+        "sentence_count": 2,
+        "avg_word_length": 5.732142857142857
+      },
+      {
+        "char_count": 543,
+        "word_count": 75,
+        "sentence_count": 3,
+        "avg_word_length": 7.24
+      },
+      {
+        "char_count": 537,
+        "word_count": 78,
+        "sentence_count": 4,
+        "avg_word_length": 6.884615384615385
+      },
+      {
+        "char_count": 521,
+        "word_count": 76,
+        "sentence_count": 3,
+        "avg_word_length": 6.855263157894737
+      },
+      {
+        "char_count": 458,
+        "word_count": 70,
+        "sentence_count": 3,
+        "avg_word_length": 6.542857142857143
+      },
+      {
+        "char_count": 526,
+        "word_count": 78,
+        "sentence_count": 3,
+        "avg_word_length": 6.743589743589744
+      },
+      {
+        "char_count": 464,
+        "word_count": 72,
+        "sentence_count": 3,
+        "avg_word_length": 6.444444444444445
+      },
+      {
+        "char_count": 322,
+        "word_count": 51,
+        "sentence_count": 3,
+        "avg_word_length": 6.313725490196078
+      },
+      {
+        "char_count": 523,
+        "word_count": 85,
+        "sentence_count": 4,
+        "avg_word_length": 6.152941176470589
+      },
+      {
+        "char_count": 539,
+        "word_count": 81,
+        "sentence_count": 3,
+        "avg_word_length": 6.654320987654321
+      },
+      {
+        "char_count": 480,
+        "word_count": 75,
+        "sentence_count": 3,
+        "avg_word_length": 6.4
+      },
+      {
+        "char_count": 481,
+        "word_count": 73,
+        "sentence_count": 3,
+        "avg_word_length": 6.589041095890411
+      },
+      {
+        "char_count": 385,
+        "word_count": 60,
+        "sentence_count": 2,
+        "avg_word_length": 6.416666666666667
+      },
+      {
+        "char_count": 566,
+        "word_count": 77,
+        "sentence_count": 3,
+        "avg_word_length": 7.35064935064935
+      },
+      {
+        "char_count": 337,
+        "word_count": 49,
+        "sentence_count": 2,
+        "avg_word_length": 6.877551020408164
+      },
+      {
+        "char_count": 344,
+        "word_count": 53,
+        "sentence_count": 3,
+        "avg_word_length": 6.490566037735849
+      },
+      {
+        "char_count": 564,
+        "word_count": 73,
+        "sentence_count": 4,
+        "avg_word_length": 7.726027397260274
+      },
+      {
+        "char_count": 458,
+        "word_count": 75,
+        "sentence_count": 3,
+        "avg_word_length": 6.1066666666666665
+      },
+      {
+        "char_count": 338,
+        "word_count": 50,
+        "sentence_count": 2,
+        "avg_word_length": 6.76
+      },
+      {
+        "char_count": 359,
+        "word_count": 55,
+        "sentence_count": 3,
+        "avg_word_length": 6.527272727272727
+      },
+      {
+        "char_count": 373,
+        "word_count": 53,
+        "sentence_count": 2,
+        "avg_word_length": 7.037735849056604
+      },
+      {
+        "char_count": 346,
+        "word_count": 51,
+        "sentence_count": 2,
+        "avg_word_length": 6.784313725490196
+      }
+    ]
+  },
+  "cost_tracker": {
+    "total_input_tokens": 153378,
+    "total_output_tokens": 49617,
+    "total_cost": 0.3211704000000001,
+    "api_calls": 390,
+    "start_time": "2025-09-27 20:41:09.299212",
+    "memory_usage": [
+      {
+        "stage": "start_testing",
+        "memory_mb": 606.640625,
+        "timestamp": "2025-09-27T20:41:14.048167"
+      },
+      {
+        "stage": "BASE_1_batch_5",
+        "memory_mb": 119.15625,
+        "timestamp": "2025-09-27T20:45:49.058815"
+      },
+      {
+        "stage": "BASE_1_batch_10",
+        "memory_mb": 114.828125,
+        "timestamp": "2025-09-27T20:50:11.002612"
+      },
+      {
+        "stage": "BASE_1_batch_15",
+        "memory_mb": 79.84375,
+        "timestamp": "2025-09-27T20:54:38.788377"
+      },
+      {
+        "stage": "BASE_1_batch_20",
+        "memory_mb": 79.65625,
+        "timestamp": "2025-09-27T20:59:10.123872"
+      },
+      {
+        "stage": "BASE_2_batch_5",
+        "memory_mb": 78.15625,
+        "timestamp": "2025-09-27T21:02:39.526553"
+      }
+    ],
+    "prompt_costs": {
+      "BASE_1": {
+        "total_cost": 0.25839760000000006,
+        "api_calls": 300,
+        "input_tokens": 116717,
+        "output_tokens": 41256
+      },
+      "BASE_2": {
+        "total_cost": 0.0627728,
+        "api_calls": 90,
+        "input_tokens": 36661,
+        "output_tokens": 8361
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "base_prompt_id": "BASE_3",
+  "variation_count": 11,
+  "variations": [
+    {
+      "variation_id": "BASE_3_PARAPHRASE_1",
+      "template": "Examine the following news article and condense the content that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}",
+      "strategy": "paraphrase",
+      "parent": "BASE_3",
+      "description": "Comprehensive synonym replacement"
+    },
+    {
+      "variation_id": "BASE_3_PARAPHRASE_2",
+      "template": "Please review this news article and give a brief overview that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}",
+      "strategy": "paraphrase",
+      "parent": "BASE_3",
+      "description": "Alternative phrasing approach"
+    },
+    {
+      "variation_id": "BASE_3_CONSTRAINT_1",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nPlease ensure the summary is exactly 3 sentences long.",
+      "strategy": "constraint",
+      "parent": "BASE_3",
+      "description": "Added length constraint (3 sentences)"
+    },
+    {
+      "variation_id": "BASE_3_CONSTRAINT_2",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nPlease keep the summary between 60-80 words.",
+      "strategy": "constraint",
+      "parent": "BASE_3",
+      "description": "Added word count constraint (60-80 words)"
+    },
+    {
+      "variation_id": "BASE_3_DETAIL_1",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nInclude specific details, numbers, and key facts.",
+      "strategy": "detail",
+      "parent": "BASE_3",
+      "description": "Enhanced detail requirements"
+    },
+    {
+      "variation_id": "BASE_3_DETAIL_2",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nFocus on the who, what, when, where, and why.",
+      "strategy": "detail",
+      "parent": "BASE_3",
+      "description": "Focus on key journalistic elements"
+    },
+    {
+      "variation_id": "BASE_3_STRUCTURE_1",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nFormat your response as:\n1. Main Point\n2. Key Details\n3. Conclusion",
+      "strategy": "structure",
+      "parent": "BASE_3",
+      "description": "Structured format requirement"
+    },
+    {
+      "variation_id": "BASE_3_STRUCTURE_2",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nStructure your response with:\n- Opening paragraph (main point)\n- Body paragraph (key details)\n- Closing paragraph (conclusion)",
+      "strategy": "structure",
+      "parent": "BASE_3",
+      "description": "Paragraph structure requirement"
+    },
+    {
+      "variation_id": "BASE_3_TONE_1",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nUse a professional and objective tone.",
+      "strategy": "tone",
+      "parent": "BASE_3",
+      "description": "Professional tone requirement"
+    },
+    {
+      "variation_id": "BASE_3_TONE_2",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nUse a conversational and engaging tone.",
+      "strategy": "tone",
+      "parent": "BASE_3",
+      "description": "Conversational tone requirement"
+    },
+    {
+      "variation_id": "BASE_3_ADDITIONAL_1",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nPlease provide a concise summary that captures the essence of the article while maintaining accuracy and clarity.",
+      "strategy": "additional",
+      "parent": "BASE_3",
+      "description": "Combined approach with emphasis on accuracy"
+    }
+  ],
+  "created_at": "2025-10-05T09:44:52.509889"
+}

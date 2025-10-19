@@ -1,0 +1,16 @@
+{
+  "genealogy_type": "prompt_lineage",
+  "timestamp": "2025-10-05T09:44:52.459429",
+  "total_nodes": 60,
+  "base_prompts": 5,
+  "variations": 55,
+  "lineage_depth": 2,
+  "strategy_distribution": {
+    "paraphrase": 10,
+    "constraint": 10,
+    "detail": 10,
+    "structure": 10,
+    "tone": 10,
+    "additional": 5
+  }
+}

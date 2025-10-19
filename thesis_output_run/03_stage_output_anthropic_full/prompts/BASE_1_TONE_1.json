@@ -1,0 +1,11 @@
+{
+  "prompt_id": "BASE_1_TONE_1",
+  "name": "BASE_1_TONE_1 (Variation)",
+  "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nUse a professional and objective tone.",
+  "approach": "variation",
+  "type": "variation",
+  "parent": "BASE_1",
+  "strategy": "tone",
+  "description": "Professional tone requirement",
+  "created_at": "2025-10-05T09:44:52.475709"
+}

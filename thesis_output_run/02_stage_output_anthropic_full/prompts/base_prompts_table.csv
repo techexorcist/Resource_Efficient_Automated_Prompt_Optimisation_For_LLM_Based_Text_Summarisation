@@ -1,0 +1,20 @@
+prompt_id,name,approach,template,weighted_score,cost_per_eval,performance_per_dollar,rank
+BASE_1,Direct Instruction,Direct,"Summarize the following news article in a clear and concise manner:
+
+{article}",0.42603123114523866,0.25839760000000006,1.648742988113042,2
+BASE_2,Length-Constrained,Length-Constrained,"Please provide a summary of the following news article in 60-80 words, capturing the main points:
+
+{article}",0.43720085076368925,0.20596559999999994,2.1226886954117066,1
+BASE_3,Key Points Extraction,Content-Focused,"Read the following news article and provide a summary that includes:
+- The main topic
+- Key facts or findings
+- Any important conclusions
+
+Article:
+{article}",0.39843108734980737,0.30652560000000023,1.299829728250453,4
+BASE_4,Professional Brief,Role-Based,"As a professional news analyst, create a brief executive summary of this article that highlights the most important information for decision-makers:
+
+{article}",0.31393495093599666,0.3028416000000001,1.0366308688634474,5
+BASE_5,Comprehensive Summary,Style-Specified,"Provide a comprehensive summary of the following article. Include the main theme, supporting details, and implications. Ensure the summary is self-contained and can be understood without reading the original article:
+
+{article}",0.3918627815215754,0.30942159999999985,1.2664364140110955,3

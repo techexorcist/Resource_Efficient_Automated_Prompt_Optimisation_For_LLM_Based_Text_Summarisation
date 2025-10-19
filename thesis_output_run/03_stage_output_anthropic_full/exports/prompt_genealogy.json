@@ -1,0 +1,362 @@
+{
+  "BASE_1": {
+    "type": "base",
+    "parent": null,
+    "children": [
+      "BASE_1_PARAPHRASE_1",
+      "BASE_1_PARAPHRASE_2",
+      "BASE_1_CONSTRAINT_1",
+      "BASE_1_CONSTRAINT_2",
+      "BASE_1_DETAIL_1",
+      "BASE_1_DETAIL_2",
+      "BASE_1_STRUCTURE_1",
+      "BASE_1_STRUCTURE_2",
+      "BASE_1_TONE_1",
+      "BASE_1_TONE_2",
+      "BASE_1_ADDITIONAL_1"
+    ]
+  },
+  "BASE_2": {
+    "type": "base",
+    "parent": null,
+    "children": [
+      "BASE_2_PARAPHRASE_1",
+      "BASE_2_PARAPHRASE_2",
+      "BASE_2_CONSTRAINT_1",
+      "BASE_2_CONSTRAINT_2",
+      "BASE_2_DETAIL_1",
+      "BASE_2_DETAIL_2",
+      "BASE_2_STRUCTURE_1",
+      "BASE_2_STRUCTURE_2",
+      "BASE_2_TONE_1",
+      "BASE_2_TONE_2",
+      "BASE_2_ADDITIONAL_1"
+    ]
+  },
+  "BASE_3": {
+    "type": "base",
+    "parent": null,
+    "children": [
+      "BASE_3_PARAPHRASE_1",
+      "BASE_3_PARAPHRASE_2",
+      "BASE_3_CONSTRAINT_1",
+      "BASE_3_CONSTRAINT_2",
+      "BASE_3_DETAIL_1",
+      "BASE_3_DETAIL_2",
+      "BASE_3_STRUCTURE_1",
+      "BASE_3_STRUCTURE_2",
+      "BASE_3_TONE_1",
+      "BASE_3_TONE_2",
+      "BASE_3_ADDITIONAL_1"
+    ]
+  },
+  "BASE_4": {
+    "type": "base",
+    "parent": null,
+    "children": [
+      "BASE_4_PARAPHRASE_1",
+      "BASE_4_PARAPHRASE_2",
+      "BASE_4_CONSTRAINT_1",
+      "BASE_4_CONSTRAINT_2",
+      "BASE_4_DETAIL_1",
+      "BASE_4_DETAIL_2",
+      "BASE_4_STRUCTURE_1",
+      "BASE_4_STRUCTURE_2",
+      "BASE_4_TONE_1",
+      "BASE_4_TONE_2",
+      "BASE_4_ADDITIONAL_1"
+    ]
+  },
+  "BASE_5": {
+    "type": "base",
+    "parent": null,
+    "children": [
+      "BASE_5_PARAPHRASE_1",
+      "BASE_5_PARAPHRASE_2",
+      "BASE_5_CONSTRAINT_1",
+      "BASE_5_CONSTRAINT_2",
+      "BASE_5_DETAIL_1",
+      "BASE_5_DETAIL_2",
+      "BASE_5_STRUCTURE_1",
+      "BASE_5_STRUCTURE_2",
+      "BASE_5_TONE_1",
+      "BASE_5_TONE_2",
+      "BASE_5_ADDITIONAL_1"
+    ]
+  },
+  "BASE_1_PARAPHRASE_1": {
+    "type": "variation",
+    "parent": "BASE_1",
+    "strategy": "paraphrase"
+  },
+  "BASE_1_PARAPHRASE_2": {
+    "type": "variation",
+    "parent": "BASE_1",
+    "strategy": "paraphrase"
+  },
+  "BASE_1_CONSTRAINT_1": {
+    "type": "variation",
+    "parent": "BASE_1",
+    "strategy": "constraint"
+  },
+  "BASE_1_CONSTRAINT_2": {
+    "type": "variation",
+    "parent": "BASE_1",
+    "strategy": "constraint"
+  },
+  "BASE_1_DETAIL_1": {
+    "type": "variation",
+    "parent": "BASE_1",
+    "strategy": "detail"
+  },
+  "BASE_1_DETAIL_2": {
+    "type": "variation",
+    "parent": "BASE_1",
+    "strategy": "detail"
+  },
+  "BASE_1_STRUCTURE_1": {
+    "type": "variation",
+    "parent": "BASE_1",
+    "strategy": "structure"
+  },
+  "BASE_1_STRUCTURE_2": {
+    "type": "variation",
+    "parent": "BASE_1",
+    "strategy": "structure"
+  },
+  "BASE_1_TONE_1": {
+    "type": "variation",
+    "parent": "BASE_1",
+    "strategy": "tone"
+  },
+  "BASE_1_TONE_2": {
+    "type": "variation",
+    "parent": "BASE_1",
+    "strategy": "tone"
+  },
+  "BASE_1_ADDITIONAL_1": {
+    "type": "variation",
+    "parent": "BASE_1",
+    "strategy": "additional"
+  },
+  "BASE_2_PARAPHRASE_1": {
+    "type": "variation",
+    "parent": "BASE_2",
+    "strategy": "paraphrase"
+  },
+  "BASE_2_PARAPHRASE_2": {
+    "type": "variation",
+    "parent": "BASE_2",
+    "strategy": "paraphrase"
+  },
+  "BASE_2_CONSTRAINT_1": {
+    "type": "variation",
+    "parent": "BASE_2",
+    "strategy": "constraint"
+  },
+  "BASE_2_CONSTRAINT_2": {
+    "type": "variation",
+    "parent": "BASE_2",
+    "strategy": "constraint"
+  },
+  "BASE_2_DETAIL_1": {
+    "type": "variation",
+    "parent": "BASE_2",
+    "strategy": "detail"
+  },
+  "BASE_2_DETAIL_2": {
+    "type": "variation",
+    "parent": "BASE_2",
+    "strategy": "detail"
+  },
+  "BASE_2_STRUCTURE_1": {
+    "type": "variation",
+    "parent": "BASE_2",
+    "strategy": "structure"
+  },
+  "BASE_2_STRUCTURE_2": {
+    "type": "variation",
+    "parent": "BASE_2",
+    "strategy": "structure"
+  },
+  "BASE_2_TONE_1": {
+    "type": "variation",
+    "parent": "BASE_2",
+    "strategy": "tone"
+  },
+  "BASE_2_TONE_2": {
+    "type": "variation",
+    "parent": "BASE_2",
+    "strategy": "tone"
+  },
+  "BASE_2_ADDITIONAL_1": {
+    "type": "variation",
+    "parent": "BASE_2",
+    "strategy": "additional"
+  },
+  "BASE_3_PARAPHRASE_1": {
+    "type": "variation",
+    "parent": "BASE_3",
+    "strategy": "paraphrase"
+  },
+  "BASE_3_PARAPHRASE_2": {
+    "type": "variation",
+    "parent": "BASE_3",
+    "strategy": "paraphrase"
+  },
+  "BASE_3_CONSTRAINT_1": {
+    "type": "variation",
+    "parent": "BASE_3",
+    "strategy": "constraint"
+  },
+  "BASE_3_CONSTRAINT_2": {
+    "type": "variation",
+    "parent": "BASE_3",
+    "strategy": "constraint"
+  },
+  "BASE_3_DETAIL_1": {
+    "type": "variation",
+    "parent": "BASE_3",
+    "strategy": "detail"
+  },
+  "BASE_3_DETAIL_2": {
+    "type": "variation",
+    "parent": "BASE_3",
+    "strategy": "detail"
+  },
+  "BASE_3_STRUCTURE_1": {
+    "type": "variation",
+    "parent": "BASE_3",
+    "strategy": "structure"
+  },
+  "BASE_3_STRUCTURE_2": {
+    "type": "variation",
+    "parent": "BASE_3",
+    "strategy": "structure"
+  },
+  "BASE_3_TONE_1": {
+    "type": "variation",
+    "parent": "BASE_3",
+    "strategy": "tone"
+  },
+  "BASE_3_TONE_2": {
+    "type": "variation",
+    "parent": "BASE_3",
+    "strategy": "tone"
+  },
+  "BASE_3_ADDITIONAL_1": {
+    "type": "variation",
+    "parent": "BASE_3",
+    "strategy": "additional"
+  },
+  "BASE_4_PARAPHRASE_1": {
+    "type": "variation",
+    "parent": "BASE_4",
+    "strategy": "paraphrase"
+  },
+  "BASE_4_PARAPHRASE_2": {
+    "type": "variation",
+    "parent": "BASE_4",
+    "strategy": "paraphrase"
+  },
+  "BASE_4_CONSTRAINT_1": {
+    "type": "variation",
+    "parent": "BASE_4",
+    "strategy": "constraint"
+  },
+  "BASE_4_CONSTRAINT_2": {
+    "type": "variation",
+    "parent": "BASE_4",
+    "strategy": "constraint"
+  },
+  "BASE_4_DETAIL_1": {
+    "type": "variation",
+    "parent": "BASE_4",
+    "strategy": "detail"
+  },
+  "BASE_4_DETAIL_2": {
+    "type": "variation",
+    "parent": "BASE_4",
+    "strategy": "detail"
+  },
+  "BASE_4_STRUCTURE_1": {
+    "type": "variation",
+    "parent": "BASE_4",
+    "strategy": "structure"
+  },
+  "BASE_4_STRUCTURE_2": {
+    "type": "variation",
+    "parent": "BASE_4",
+    "strategy": "structure"
+  },
+  "BASE_4_TONE_1": {
+    "type": "variation",
+    "parent": "BASE_4",
+    "strategy": "tone"
+  },
+  "BASE_4_TONE_2": {
+    "type": "variation",
+    "parent": "BASE_4",
+    "strategy": "tone"
+  },
+  "BASE_4_ADDITIONAL_1": {
+    "type": "variation",
+    "parent": "BASE_4",
+    "strategy": "additional"
+  },
+  "BASE_5_PARAPHRASE_1": {
+    "type": "variation",
+    "parent": "BASE_5",
+    "strategy": "paraphrase"
+  },
+  "BASE_5_PARAPHRASE_2": {
+    "type": "variation",
+    "parent": "BASE_5",
+    "strategy": "paraphrase"
+  },
+  "BASE_5_CONSTRAINT_1": {
+    "type": "variation",
+    "parent": "BASE_5",
+    "strategy": "constraint"
+  },
+  "BASE_5_CONSTRAINT_2": {
+    "type": "variation",
+    "parent": "BASE_5",
+    "strategy": "constraint"
+  },
+  "BASE_5_DETAIL_1": {
+    "type": "variation",
+    "parent": "BASE_5",
+    "strategy": "detail"
+  },
+  "BASE_5_DETAIL_2": {
+    "type": "variation",
+    "parent": "BASE_5",
+    "strategy": "detail"
+  },
+  "BASE_5_STRUCTURE_1": {
+    "type": "variation",
+    "parent": "BASE_5",
+    "strategy": "structure"
+  },
+  "BASE_5_STRUCTURE_2": {
+    "type": "variation",
+    "parent": "BASE_5",
+    "strategy": "structure"
+  },
+  "BASE_5_TONE_1": {
+    "type": "variation",
+    "parent": "BASE_5",
+    "strategy": "tone"
+  },
+  "BASE_5_TONE_2": {
+    "type": "variation",
+    "parent": "BASE_5",
+    "strategy": "tone"
+  },
+  "BASE_5_ADDITIONAL_1": {
+    "type": "variation",
+    "parent": "BASE_5",
+    "strategy": "additional"
+  }
+}

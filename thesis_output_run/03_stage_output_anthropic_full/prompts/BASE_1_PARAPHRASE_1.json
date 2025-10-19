@@ -1,0 +1,11 @@
+{
+  "prompt_id": "BASE_1_PARAPHRASE_1",
+  "name": "BASE_1_PARAPHRASE_1 (Variation)",
+  "template": "Condensed overview the following news article in a clear and concise manner:\n\n{article}",
+  "approach": "variation",
+  "type": "variation",
+  "parent": "BASE_1",
+  "strategy": "paraphrase",
+  "description": "Comprehensive synonym replacement",
+  "created_at": "2025-10-05T09:44:52.472246"
+}

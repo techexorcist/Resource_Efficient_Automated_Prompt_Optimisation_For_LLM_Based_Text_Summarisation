@@ -1,0 +1,26 @@
+{
+  "base_prompt_id": "BASE_4",
+  "base_prompt_name": "Professional Brief",
+  "children_count": 11,
+  "children": [
+    "BASE_4_PARAPHRASE_1",
+    "BASE_4_PARAPHRASE_2",
+    "BASE_4_CONSTRAINT_1",
+    "BASE_4_CONSTRAINT_2",
+    "BASE_4_DETAIL_1",
+    "BASE_4_DETAIL_2",
+    "BASE_4_STRUCTURE_1",
+    "BASE_4_STRUCTURE_2",
+    "BASE_4_TONE_1",
+    "BASE_4_TONE_2",
+    "BASE_4_ADDITIONAL_1"
+  ],
+  "strategy_breakdown": {
+    "paraphrase": 2,
+    "constraint": 2,
+    "detail": 2,
+    "structure": 2,
+    "tone": 2,
+    "additional": 1
+  }
+}

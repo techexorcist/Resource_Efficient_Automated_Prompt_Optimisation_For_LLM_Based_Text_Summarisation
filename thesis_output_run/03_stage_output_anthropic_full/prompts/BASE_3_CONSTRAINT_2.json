@@ -1,0 +1,11 @@
+{
+  "prompt_id": "BASE_3_CONSTRAINT_2",
+  "name": "BASE_3_CONSTRAINT_2 (Variation)",
+  "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nPlease keep the summary between 60-80 words.",
+  "approach": "variation",
+  "type": "variation",
+  "parent": "BASE_3",
+  "strategy": "constraint",
+  "description": "Added word count constraint (60-80 words)",
+  "created_at": "2025-10-05T09:44:52.494085"
+}

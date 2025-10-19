@@ -1,0 +1,11 @@
+{
+  "prompt_id": "BASE_1_DETAIL_1",
+  "name": "BASE_1_DETAIL_1 (Variation)",
+  "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nInclude specific details, numbers, and key facts.",
+  "approach": "variation",
+  "type": "variation",
+  "parent": "BASE_1",
+  "strategy": "detail",
+  "description": "Enhanced detail requirements",
+  "created_at": "2025-10-05T09:44:52.473762"
+}

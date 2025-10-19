@@ -1,0 +1,23 @@
+{
+  "stage": "03_prompt_variation_generation",
+  "completed_at": "2025-10-05T09:45:01.067708",
+  "total_prompts": 60,
+  "variations_generated": 55,
+  "base_prompts": 5,
+  "total_cost": 1.3831520000000024,
+  "cost_per_prompt": 0.02305253333333337,
+  "quality_metrics": {
+    "semantic_diversity": 0.07248858447488585,
+    "structural_diversity": 0.5063640433936529,
+    "lexical_diversity": 0.5535574674411372,
+    "syntactic_diversity": 1.0,
+    "overall_quality": 0.4843672818487891
+  },
+  "ready_for_stage_4": true,
+  "next_stage": "04_optimization_experiments",
+  "export_files": [
+    "all_prompts_stage3.json",
+    "prompt_genealogy.json",
+    "stage_3_summary.json"
+  ]
+}

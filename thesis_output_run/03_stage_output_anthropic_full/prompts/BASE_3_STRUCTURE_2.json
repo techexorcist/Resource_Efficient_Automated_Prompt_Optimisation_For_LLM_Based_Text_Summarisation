@@ -1,0 +1,11 @@
+{
+  "prompt_id": "BASE_3_STRUCTURE_2",
+  "name": "BASE_3_STRUCTURE_2 (Variation)",
+  "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nStructure your response with:\n- Opening paragraph (main point)\n- Body paragraph (key details)\n- Closing paragraph (conclusion)",
+  "approach": "variation",
+  "type": "variation",
+  "parent": "BASE_3",
+  "strategy": "structure",
+  "description": "Paragraph structure requirement",
+  "created_at": "2025-10-05T09:44:52.495991"
+}

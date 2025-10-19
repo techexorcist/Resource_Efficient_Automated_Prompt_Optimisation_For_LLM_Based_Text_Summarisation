@@ -1,0 +1,11 @@
+{
+  "prompt_id": "BASE_3_ADDITIONAL_1",
+  "name": "BASE_3_ADDITIONAL_1 (Variation)",
+  "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nPlease provide a concise summary that captures the essence of the article while maintaining accuracy and clarity.",
+  "approach": "variation",
+  "type": "variation",
+  "parent": "BASE_3",
+  "strategy": "additional",
+  "description": "Combined approach with emphasis on accuracy",
+  "created_at": "2025-10-05T09:44:52.496823"
+}

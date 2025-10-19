@@ -1,0 +1,16 @@
+Pattern Type,Description,Key Characteristics,Example Prompt,Complexity,Est. Tokens
+Direct,"Simple, direct instruction","• minimal
+• clear
+• no constraints","""Summarize this article.""",1/5,~15
+Length-Constrained,Specifies output length,"• word/sentence limit
+• concise
+• focused","""Summarize in 50-100 words.""",2/5,~25
+Style-Specified,Defines writing style,"• tone specification
+• audience-aware
+• formatted","""Write a professional summary for executives.""",3/5,~35
+Content-Focused,Emphasizes key information,"• key points
+• main ideas
+• structured","""Extract the main points and key findings.""",3/5,~30
+Role-Based,Assumes specific role/perspective,"• persona
+• expertise
+• viewpoint","""As a news editor, summarize this article.""",2/5,~22

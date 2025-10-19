@@ -1,0 +1,242 @@
+{
+  "BASE_1": {
+    "base_info": {
+      "name": "Direct Instruction",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}",
+      "approach": "Direct",
+      "constraints": null,
+      "expected_length": "flexible",
+      "complexity": 2,
+      "complexity_breakdown": {
+        "calculated_score": 2,
+        "has_length_constraint": false,
+        "has_role": false,
+        "has_structure": false,
+        "instruction_sentences": 0,
+        "template_words": 12
+      }
+    },
+    "metadata": {
+      "created_at": "2025-09-27T22:20:49.267959",
+      "stage": "base_prompt_development",
+      "version": "1.0",
+      "author": "automated_generation"
+    },
+    "performance": {
+      "weighted_score": 0.42603123114523866,
+      "cost_per_eval": 0.25839760000000006,
+      "performance_per_dollar": 1.648742988113042,
+      "rank": 2
+    },
+    "characteristics": {
+      "template_length": 78,
+      "word_count": 12,
+      "has_constraints": false,
+      "has_role": false
+    },
+    "test_summary": {
+      "samples_tested": 300,
+      "avg_output_length": 104.58666666666667,
+      "total_cost": 0.25839760000000006
+    },
+    "cost_analysis": {
+      "total_cost": 0.25839760000000006,
+      "api_calls": 300,
+      "cost_per_evaluation": 0.0008613253333333335,
+      "input_tokens": 116717,
+      "output_tokens": 41256
+    }
+  },
+  "BASE_2": {
+    "base_info": {
+      "name": "Length-Constrained",
+      "template": "Please provide a summary of the following news article in 60-80 words, capturing the main points:\n\n{article}",
+      "approach": "Length-Constrained",
+      "constraints": "60-80 words",
+      "expected_length": "60-80 words",
+      "complexity": 2,
+      "complexity_breakdown": {
+        "calculated_score": 2,
+        "has_length_constraint": true,
+        "has_role": false,
+        "has_structure": true,
+        "instruction_sentences": 0,
+        "template_words": 17
+      }
+    },
+    "metadata": {
+      "created_at": "2025-09-27T22:20:49.268020",
+      "stage": "base_prompt_development",
+      "version": "1.0",
+      "author": "automated_generation"
+    },
+    "performance": {
+      "weighted_score": 0.43720085076368925,
+      "cost_per_eval": 0.20596559999999994,
+      "performance_per_dollar": 2.1226886954117066,
+      "rank": 1
+    },
+    "characteristics": {
+      "template_length": 108,
+      "word_count": 17,
+      "has_constraints": false,
+      "has_role": false
+    },
+    "test_summary": {
+      "samples_tested": 300,
+      "avg_output_length": 69.15,
+      "total_cost": 0.20596559999999994
+    },
+    "cost_analysis": {
+      "total_cost": 0.20596559999999994,
+      "api_calls": 300,
+      "cost_per_evaluation": 0.0006865519999999998,
+      "input_tokens": 118817,
+      "output_tokens": 27728
+    }
+  },
+  "BASE_3": {
+    "base_info": {
+      "name": "Key Points Extraction",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}",
+      "approach": "Content-Focused",
+      "constraints": "structured output",
+      "expected_length": "flexible",
+      "complexity": 3,
+      "complexity_breakdown": {
+        "calculated_score": 3,
+        "has_length_constraint": false,
+        "has_role": false,
+        "has_structure": true,
+        "instruction_sentences": 0,
+        "template_words": 26
+      }
+    },
+    "metadata": {
+      "created_at": "2025-09-27T22:20:49.268077",
+      "stage": "base_prompt_development",
+      "version": "1.0",
+      "author": "automated_generation"
+    },
+    "performance": {
+      "weighted_score": 0.39843108734980737,
+      "cost_per_eval": 0.30652560000000023,
+      "performance_per_dollar": 1.299829728250453,
+      "rank": 4
+    },
+    "characteristics": {
+      "template_length": 157,
+      "word_count": 26,
+      "has_constraints": false,
+      "has_role": false
+    },
+    "test_summary": {
+      "samples_tested": 300,
+      "avg_output_length": 129.59,
+      "total_cost": 0.30652560000000023
+    },
+    "cost_analysis": {
+      "total_cost": 0.30652560000000023,
+      "api_calls": 300,
+      "cost_per_evaluation": 0.0010217520000000008,
+      "input_tokens": 121517,
+      "output_tokens": 52328
+    }
+  },
+  "BASE_4": {
+    "base_info": {
+      "name": "Professional Brief",
+      "template": "As a professional news analyst, create a brief executive summary of this article that highlights the most important information for decision-makers:\n\n{article}",
+      "approach": "Role-Based",
+      "constraints": "professional tone",
+      "expected_length": "flexible",
+      "complexity": 2,
+      "complexity_breakdown": {
+        "calculated_score": 2,
+        "has_length_constraint": false,
+        "has_role": true,
+        "has_structure": true,
+        "instruction_sentences": 0,
+        "template_words": 22
+      }
+    },
+    "metadata": {
+      "created_at": "2025-09-27T22:20:49.268145",
+      "stage": "base_prompt_development",
+      "version": "1.0",
+      "author": "automated_generation"
+    },
+    "performance": {
+      "weighted_score": 0.31393495093599666,
+      "cost_per_eval": 0.3028416000000001,
+      "performance_per_dollar": 1.0366308688634474,
+      "rank": 5
+    },
+    "characteristics": {
+      "template_length": 159,
+      "word_count": 22,
+      "has_constraints": false,
+      "has_role": true
+    },
+    "test_summary": {
+      "samples_tested": 300,
+      "avg_output_length": 120.97,
+      "total_cost": 0.3028416000000001
+    },
+    "cost_analysis": {
+      "total_cost": 0.3028416000000001,
+      "api_calls": 300,
+      "cost_per_evaluation": 0.0010094720000000004,
+      "input_tokens": 119717,
+      "output_tokens": 51767
+    }
+  },
+  "BASE_5": {
+    "base_info": {
+      "name": "Comprehensive Summary",
+      "template": "Provide a comprehensive summary of the following article. Include the main theme, supporting details, and implications. Ensure the summary is self-contained and can be understood without reading the original article:\n\n{article}",
+      "approach": "Style-Specified",
+      "constraints": "comprehensive, self-contained",
+      "expected_length": "100-150 words",
+      "complexity": 4,
+      "complexity_breakdown": {
+        "calculated_score": 4,
+        "has_length_constraint": false,
+        "has_role": false,
+        "has_structure": true,
+        "instruction_sentences": 2,
+        "template_words": 31
+      }
+    },
+    "metadata": {
+      "created_at": "2025-09-27T22:20:49.268196",
+      "stage": "base_prompt_development",
+      "version": "1.0",
+      "author": "automated_generation"
+    },
+    "performance": {
+      "weighted_score": 0.3918627815215754,
+      "cost_per_eval": 0.30942159999999985,
+      "performance_per_dollar": 1.2664364140110955,
+      "rank": 3
+    },
+    "characteristics": {
+      "template_length": 227,
+      "word_count": 31,
+      "has_constraints": false,
+      "has_role": false
+    },
+    "test_summary": {
+      "samples_tested": 300,
+      "avg_output_length": 129.41666666666666,
+      "total_cost": 0.30942159999999985
+    },
+    "cost_analysis": {
+      "total_cost": 0.30942159999999985,
+      "api_calls": 300,
+      "cost_per_evaluation": 0.001031405333333333,
+      "input_tokens": 123317,
+      "output_tokens": 52692
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Length-Constrained": {
+    "description": "Specifies output length",
+    "characteristics": [
+      "word/sentence limit",
+      "concise",
+      "focused"
+    ],
+    "example": "Summarize in 50-100 words.",
+    "complexity": 2,
+    "token_estimate": 25,
+    "use_case": "Controlled Output",
+    "advantages": [
+      "Consistent length",
+      "Predictable"
+    ],
+    "disadvantages": [
+      "May truncate important info"
+    ],
+    "best_for": "Standardized reports"
+  }
+}

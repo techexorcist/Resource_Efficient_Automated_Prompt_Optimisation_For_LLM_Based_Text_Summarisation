@@ -1,0 +1,11 @@
+{
+  "prompt_id": "BASE_4_PARAPHRASE_2",
+  "name": "BASE_4_PARAPHRASE_2 (Variation)",
+  "template": "Please create a brief executive overview of this article that highlights the most important information for decision-makers:\n\n{article}",
+  "approach": "variation",
+  "type": "variation",
+  "parent": "BASE_4",
+  "strategy": "paraphrase",
+  "description": "Alternative phrasing approach",
+  "created_at": "2025-10-05T09:44:52.497457"
+}

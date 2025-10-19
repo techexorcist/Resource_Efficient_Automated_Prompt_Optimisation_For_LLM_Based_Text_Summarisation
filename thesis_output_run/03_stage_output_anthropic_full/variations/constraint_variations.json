@@ -1,0 +1,77 @@
+{
+  "strategy": "constraint",
+  "variation_count": 10,
+  "variations": [
+    {
+      "variation_id": "BASE_1_CONSTRAINT_1",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nPlease ensure the summary is exactly 3 sentences long.",
+      "strategy": "constraint",
+      "parent": "BASE_1",
+      "description": "Added length constraint (3 sentences)"
+    },
+    {
+      "variation_id": "BASE_1_CONSTRAINT_2",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nPlease keep the summary between 60-80 words.",
+      "strategy": "constraint",
+      "parent": "BASE_1",
+      "description": "Added word count constraint (60-80 words)"
+    },
+    {
+      "variation_id": "BASE_2_CONSTRAINT_1",
+      "template": "Please provide a summary of the following news article in 60-80 words, capturing the main points:\n\n{article}\n\nPlease ensure the summary is exactly 3 sentences long.",
+      "strategy": "constraint",
+      "parent": "BASE_2",
+      "description": "Added length constraint (3 sentences)"
+    },
+    {
+      "variation_id": "BASE_2_CONSTRAINT_2",
+      "template": "Please provide a summary of the following news article in 60-80 words, capturing the main points:\n\n{article}\n\nPlease keep the summary between 60-80 words.",
+      "strategy": "constraint",
+      "parent": "BASE_2",
+      "description": "Added word count constraint (60-80 words)"
+    },
+    {
+      "variation_id": "BASE_3_CONSTRAINT_1",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nPlease ensure the summary is exactly 3 sentences long.",
+      "strategy": "constraint",
+      "parent": "BASE_3",
+      "description": "Added length constraint (3 sentences)"
+    },
+    {
+      "variation_id": "BASE_3_CONSTRAINT_2",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nPlease keep the summary between 60-80 words.",
+      "strategy": "constraint",
+      "parent": "BASE_3",
+      "description": "Added word count constraint (60-80 words)"
+    },
+    {
+      "variation_id": "BASE_4_CONSTRAINT_1",
+      "template": "As a professional news analyst, create a brief executive summary of this article that highlights the most important information for decision-makers:\n\n{article}\n\nPlease ensure the summary is exactly 3 sentences long.",
+      "strategy": "constraint",
+      "parent": "BASE_4",
+      "description": "Added length constraint (3 sentences)"
+    },
+    {
+      "variation_id": "BASE_4_CONSTRAINT_2",
+      "template": "As a professional news analyst, create a brief executive summary of this article that highlights the most important information for decision-makers:\n\n{article}\n\nPlease keep the summary between 60-80 words.",
+      "strategy": "constraint",
+      "parent": "BASE_4",
+      "description": "Added word count constraint (60-80 words)"
+    },
+    {
+      "variation_id": "BASE_5_CONSTRAINT_1",
+      "template": "Provide a comprehensive summary of the following article. Include the main theme, supporting details, and implications. Ensure the summary is self-contained and can be understood without reading the original article:\n\n{article}\n\nPlease ensure the summary is exactly 3 sentences long.",
+      "strategy": "constraint",
+      "parent": "BASE_5",
+      "description": "Added length constraint (3 sentences)"
+    },
+    {
+      "variation_id": "BASE_5_CONSTRAINT_2",
+      "template": "Provide a comprehensive summary of the following article. Include the main theme, supporting details, and implications. Ensure the summary is self-contained and can be understood without reading the original article:\n\n{article}\n\nPlease keep the summary between 60-80 words.",
+      "strategy": "constraint",
+      "parent": "BASE_5",
+      "description": "Added word count constraint (60-80 words)"
+    }
+  ],
+  "created_at": "2025-10-05T09:44:52.506849"
+}

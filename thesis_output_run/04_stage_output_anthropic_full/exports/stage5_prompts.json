@@ -1,0 +1,42 @@
+{
+  "BASE_1_CONSTRAINT_1": {
+    "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nPlease ensure the summary is exactly 3 sentences long.",
+    "name": "BASE_1_CONSTRAINT_1 (Variation)",
+    "approach": "variation",
+    "type": "variation",
+    "parent": "BASE_1",
+    "strategy": "constraint"
+  },
+  "BASE_2_CONSTRAINT_1": {
+    "template": "Please provide a summary of the following news article in 60-80 words, capturing the main points:\n\n{article}\n\nPlease ensure the summary is exactly 3 sentences long.",
+    "name": "BASE_2_CONSTRAINT_1 (Variation)",
+    "approach": "variation",
+    "type": "variation",
+    "parent": "BASE_2",
+    "strategy": "constraint"
+  },
+  "BASE_1_CONSTRAINT_2": {
+    "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nPlease keep the summary between 60-80 words.",
+    "name": "BASE_1_CONSTRAINT_2 (Variation)",
+    "approach": "variation",
+    "type": "variation",
+    "parent": "BASE_1",
+    "strategy": "constraint"
+  },
+  "BASE_1": {
+    "template": "Summarize the following news article in a clear and concise manner:\n\n{article}",
+    "name": "Direct Instruction",
+    "approach": "Direct",
+    "type": "base",
+    "parent": null,
+    "strategy": "original"
+  },
+  "BASE_3_CONSTRAINT_2": {
+    "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nPlease keep the summary between 60-80 words.",
+    "name": "BASE_3_CONSTRAINT_2 (Variation)",
+    "approach": "variation",
+    "type": "variation",
+    "parent": "BASE_3",
+    "strategy": "constraint"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "base_prompt_id": "BASE_2",
+  "base_prompt_name": "Length-Constrained",
+  "children_count": 11,
+  "children": [
+    "BASE_2_PARAPHRASE_1",
+    "BASE_2_PARAPHRASE_2",
+    "BASE_2_CONSTRAINT_1",
+    "BASE_2_CONSTRAINT_2",
+    "BASE_2_DETAIL_1",
+    "BASE_2_DETAIL_2",
+    "BASE_2_STRUCTURE_1",
+    "BASE_2_STRUCTURE_2",
+    "BASE_2_TONE_1",
+    "BASE_2_TONE_2",
+    "BASE_2_ADDITIONAL_1"
+  ],
+  "strategy_breakdown": {
+    "paraphrase": 2,
+    "constraint": 2,
+    "detail": 2,
+    "structure": 2,
+    "tone": 2,
+    "additional": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "prompt_id": "BASE_4_CONSTRAINT_1",
+  "name": "BASE_4_CONSTRAINT_1 (Variation)",
+  "template": "As a professional news analyst, create a brief executive summary of this article that highlights the most important information for decision-makers:\n\n{article}\n\nPlease ensure the summary is exactly 3 sentences long.",
+  "approach": "variation",
+  "type": "variation",
+  "parent": "BASE_4",
+  "strategy": "constraint",
+  "description": "Added length constraint (3 sentences)",
+  "created_at": "2025-10-05T09:44:52.497849"
+}

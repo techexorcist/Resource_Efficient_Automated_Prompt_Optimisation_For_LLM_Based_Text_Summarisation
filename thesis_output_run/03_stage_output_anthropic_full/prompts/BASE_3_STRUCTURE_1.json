@@ -1,0 +1,11 @@
+{
+  "prompt_id": "BASE_3_STRUCTURE_1",
+  "name": "BASE_3_STRUCTURE_1 (Variation)",
+  "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nFormat your response as:\n1. Main Point\n2. Key Details\n3. Conclusion",
+  "approach": "variation",
+  "type": "variation",
+  "parent": "BASE_3",
+  "strategy": "structure",
+  "description": "Structured format requirement",
+  "created_at": "2025-10-05T09:44:52.495736"
+}

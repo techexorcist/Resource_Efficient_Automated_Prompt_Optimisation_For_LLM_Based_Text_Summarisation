@@ -1,0 +1,26 @@
+{
+  "base_prompt_id": "BASE_3",
+  "base_prompt_name": "Key Points Extraction",
+  "children_count": 11,
+  "children": [
+    "BASE_3_PARAPHRASE_1",
+    "BASE_3_PARAPHRASE_2",
+    "BASE_3_CONSTRAINT_1",
+    "BASE_3_CONSTRAINT_2",
+    "BASE_3_DETAIL_1",
+    "BASE_3_DETAIL_2",
+    "BASE_3_STRUCTURE_1",
+    "BASE_3_STRUCTURE_2",
+    "BASE_3_TONE_1",
+    "BASE_3_TONE_2",
+    "BASE_3_ADDITIONAL_1"
+  ],
+  "strategy_breakdown": {
+    "paraphrase": 2,
+    "constraint": 2,
+    "detail": 2,
+    "structure": 2,
+    "tone": 2,
+    "additional": 1
+  }
+}

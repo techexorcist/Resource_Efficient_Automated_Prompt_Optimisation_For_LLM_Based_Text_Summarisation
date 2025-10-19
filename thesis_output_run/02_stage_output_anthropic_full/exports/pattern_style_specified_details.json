@@ -1,0 +1,23 @@
+{
+  "Style-Specified": {
+    "description": "Defines writing style",
+    "characteristics": [
+      "tone specification",
+      "audience-aware",
+      "formatted"
+    ],
+    "example": "Write a professional summary for executives.",
+    "complexity": 3,
+    "token_estimate": 35,
+    "use_case": "Professional Communication",
+    "advantages": [
+      "Audience-appropriate",
+      "Consistent tone"
+    ],
+    "disadvantages": [
+      "Higher cost",
+      "May be verbose"
+    ],
+    "best_for": "Business communications"
+  }
+}

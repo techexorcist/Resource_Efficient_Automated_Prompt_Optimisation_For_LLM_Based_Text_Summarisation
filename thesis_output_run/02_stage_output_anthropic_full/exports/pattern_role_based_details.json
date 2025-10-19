@@ -1,0 +1,22 @@
+{
+  "Role-Based": {
+    "description": "Assumes specific role/perspective",
+    "characteristics": [
+      "persona",
+      "expertise",
+      "viewpoint"
+    ],
+    "example": "As a news editor, summarize this article.",
+    "complexity": 2,
+    "token_estimate": 22,
+    "use_case": "Contextual Expertise",
+    "advantages": [
+      "Expert perspective",
+      "Context-aware"
+    ],
+    "disadvantages": [
+      "Role dependency"
+    ],
+    "best_for": "Domain-specific content"
+  }
+}

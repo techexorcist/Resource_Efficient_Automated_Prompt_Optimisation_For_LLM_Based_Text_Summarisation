@@ -1,0 +1,11 @@
+{
+  "prompt_id": "BASE_4_DETAIL_2",
+  "name": "BASE_4_DETAIL_2 (Variation)",
+  "template": "As a professional news analyst, create a brief executive summary of this article that highlights the most important information for decision-makers:\n\n{article}\n\nFocus on the who, what, when, where, and why.",
+  "approach": "variation",
+  "type": "variation",
+  "parent": "BASE_4",
+  "strategy": "detail",
+  "description": "Focus on key journalistic elements",
+  "created_at": "2025-10-05T09:44:52.500235"
+}

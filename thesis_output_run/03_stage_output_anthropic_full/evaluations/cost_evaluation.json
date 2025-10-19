@@ -1,0 +1,26 @@
+{
+  "evaluation_type": "cost_analysis",
+  "timestamp": "2025-10-05T09:44:52.458992",
+  "cost_breakdown": {
+    "total_cost": 1.3831520000000024,
+    "stage_2_total": 1.3831520000000024,
+    "stage_3_generation": 0.0,
+    "stage_3_export": 0.0,
+    "total_requests": 0,
+    "stage_3_strategies": {
+      "paraphrase": 10,
+      "constraint": 10,
+      "detail": 10,
+      "structure": 10,
+      "tone": 10,
+      "additional": 5
+    },
+    "stage_3_variations": 55
+  },
+  "efficiency_metrics": {
+    "cost_per_prompt": 0.02305253333333337,
+    "cost_per_variation": 0.025148218181818224,
+    "generation_efficiency": "HIGH",
+    "export_efficiency": "HIGH"
+  }
+}

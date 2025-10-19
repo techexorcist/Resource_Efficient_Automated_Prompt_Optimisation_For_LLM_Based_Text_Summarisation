@@ -1,0 +1,11 @@
+{
+  "prompt_id": "BASE_2_STRUCTURE_1",
+  "name": "BASE_2_STRUCTURE_1 (Variation)",
+  "template": "Please provide a summary of the following news article in 60-80 words, capturing the main points:\n\n{article}\n\nFormat your response as:\n1. Main Point\n2. Key Details\n3. Conclusion",
+  "approach": "variation",
+  "type": "variation",
+  "parent": "BASE_2",
+  "strategy": "structure",
+  "description": "Structured format requirement",
+  "created_at": "2025-10-05T09:44:52.490473"
+}

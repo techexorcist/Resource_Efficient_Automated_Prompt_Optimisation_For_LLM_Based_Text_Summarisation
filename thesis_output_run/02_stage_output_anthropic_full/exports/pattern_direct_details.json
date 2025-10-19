@@ -1,0 +1,24 @@
+{
+  "Direct": {
+    "description": "Simple, direct instruction",
+    "characteristics": [
+      "minimal",
+      "clear",
+      "no constraints"
+    ],
+    "example": "Summarize this article.",
+    "complexity": 1,
+    "token_estimate": 15,
+    "use_case": "Baseline/Control",
+    "advantages": [
+      "Fast",
+      "Low cost",
+      "Clear"
+    ],
+    "disadvantages": [
+      "No guidance",
+      "Variable quality"
+    ],
+    "best_for": "Quick summaries"
+  }
+}

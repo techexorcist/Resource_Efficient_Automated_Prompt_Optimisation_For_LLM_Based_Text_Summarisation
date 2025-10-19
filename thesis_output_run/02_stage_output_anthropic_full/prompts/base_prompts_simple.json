@@ -1,0 +1,32 @@
+{
+  "BASE_1": {
+    "name": "Direct Instruction",
+    "template": "Summarize the following news article in a clear and concise manner:\n\n{article}",
+    "approach": "Direct",
+    "performance_rank": 2
+  },
+  "BASE_2": {
+    "name": "Length-Constrained",
+    "template": "Please provide a summary of the following news article in 60-80 words, capturing the main points:\n\n{article}",
+    "approach": "Length-Constrained",
+    "performance_rank": 1
+  },
+  "BASE_3": {
+    "name": "Key Points Extraction",
+    "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}",
+    "approach": "Content-Focused",
+    "performance_rank": 4
+  },
+  "BASE_4": {
+    "name": "Professional Brief",
+    "template": "As a professional news analyst, create a brief executive summary of this article that highlights the most important information for decision-makers:\n\n{article}",
+    "approach": "Role-Based",
+    "performance_rank": 5
+  },
+  "BASE_5": {
+    "name": "Comprehensive Summary",
+    "template": "Provide a comprehensive summary of the following article. Include the main theme, supporting details, and implications. Ensure the summary is self-contained and can be understood without reading the original article:\n\n{article}",
+    "approach": "Style-Specified",
+    "performance_rank": 3
+  }
+}

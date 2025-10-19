@@ -1,0 +1,190 @@
+{
+  "base_prompts": {
+    "BASE_1": {
+      "name": "Direct Instruction",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}",
+      "approach": "Direct",
+      "constraints": null,
+      "expected_length": "flexible",
+      "complexity": 2,
+      "complexity_breakdown": {
+        "calculated_score": 2,
+        "has_length_constraint": false,
+        "has_role": false,
+        "has_structure": false,
+        "instruction_sentences": 0,
+        "template_words": 12
+      }
+    },
+    "BASE_2": {
+      "name": "Length-Constrained",
+      "template": "Please provide a summary of the following news article in 60-80 words, capturing the main points:\n\n{article}",
+      "approach": "Length-Constrained",
+      "constraints": "60-80 words",
+      "expected_length": "60-80 words",
+      "complexity": 2,
+      "complexity_breakdown": {
+        "calculated_score": 2,
+        "has_length_constraint": true,
+        "has_role": false,
+        "has_structure": true,
+        "instruction_sentences": 0,
+        "template_words": 17
+      }
+    },
+    "BASE_3": {
+      "name": "Key Points Extraction",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}",
+      "approach": "Content-Focused",
+      "constraints": "structured output",
+      "expected_length": "flexible",
+      "complexity": 3,
+      "complexity_breakdown": {
+        "calculated_score": 3,
+        "has_length_constraint": false,
+        "has_role": false,
+        "has_structure": true,
+        "instruction_sentences": 0,
+        "template_words": 26
+      }
+    },
+    "BASE_4": {
+      "name": "Professional Brief",
+      "template": "As a professional news analyst, create a brief executive summary of this article that highlights the most important information for decision-makers:\n\n{article}",
+      "approach": "Role-Based",
+      "constraints": "professional tone",
+      "expected_length": "flexible",
+      "complexity": 2,
+      "complexity_breakdown": {
+        "calculated_score": 2,
+        "has_length_constraint": false,
+        "has_role": true,
+        "has_structure": true,
+        "instruction_sentences": 0,
+        "template_words": 22
+      }
+    },
+    "BASE_5": {
+      "name": "Comprehensive Summary",
+      "template": "Provide a comprehensive summary of the following article. Include the main theme, supporting details, and implications. Ensure the summary is self-contained and can be understood without reading the original article:\n\n{article}",
+      "approach": "Style-Specified",
+      "constraints": "comprehensive, self-contained",
+      "expected_length": "100-150 words",
+      "complexity": 4,
+      "complexity_breakdown": {
+        "calculated_score": 4,
+        "has_length_constraint": false,
+        "has_role": false,
+        "has_structure": true,
+        "instruction_sentences": 2,
+        "template_words": 31
+      }
+    }
+  },
+  "performance_metrics": [
+    {
+      "prompt_id": "BASE_2",
+      "performance_score": 0.43720085076368925,
+      "cost_per_eval": 0.20596559999999994,
+      "performance_per_dollar": 2.1226886954117066
+    },
+    {
+      "prompt_id": "BASE_1",
+      "performance_score": 0.42603123114523866,
+      "cost_per_eval": 0.25839760000000006,
+      "performance_per_dollar": 1.648742988113042
+    },
+    {
+      "prompt_id": "BASE_5",
+      "performance_score": 0.3918627815215754,
+      "cost_per_eval": 0.30942159999999985,
+      "performance_per_dollar": 1.2664364140110955
+    },
+    {
+      "prompt_id": "BASE_3",
+      "performance_score": 0.39843108734980737,
+      "cost_per_eval": 0.30652560000000023,
+      "performance_per_dollar": 1.299829728250453
+    },
+    {
+      "prompt_id": "BASE_4",
+      "performance_score": 0.31393495093599666,
+      "cost_per_eval": 0.3028416000000001,
+      "performance_per_dollar": 1.0366308688634474
+    }
+  ],
+  "characteristics": {
+    "BASE_1": {
+      "word_count_mean": 104.59,
+      "word_count_std": 29.29,
+      "sentence_count_mean": 4.83,
+      "sentence_count_std": 1.87,
+      "avg_word_length_mean": 6.54,
+      "avg_word_length_std": 0.36
+    },
+    "BASE_2": {
+      "word_count_mean": 69.15,
+      "word_count_std": 11.65,
+      "sentence_count_mean": 3.22,
+      "sentence_count_std": 0.72,
+      "avg_word_length_mean": 6.62,
+      "avg_word_length_std": 0.4
+    },
+    "BASE_3": {
+      "word_count_mean": 129.59,
+      "word_count_std": 13.05,
+      "sentence_count_mean": 2.49,
+      "sentence_count_std": 1.54,
+      "avg_word_length_mean": 6.4,
+      "avg_word_length_std": 0.34
+    },
+    "BASE_4": {
+      "word_count_mean": 120.97,
+      "word_count_std": 11.74,
+      "sentence_count_mean": 2.67,
+      "sentence_count_std": 1.64,
+      "avg_word_length_mean": 7.19,
+      "avg_word_length_std": 0.41
+    },
+    "BASE_5": {
+      "word_count_mean": 129.42,
+      "word_count_std": 11.07,
+      "sentence_count_mean": 5.13,
+      "sentence_count_std": 2.35,
+      "avg_word_length_mean": 6.62,
+      "avg_word_length_std": 0.34
+    }
+  },
+  "metadata": {
+    "creation_date": "2025-09-27T22:20:48.265957",
+    "test_sample_size": 300,
+    "model_used": "claude-3-5-haiku-20241022",
+    "total_cost": 1.3831520000000024,
+    "total_api_calls": 1500
+  },
+  "variation_hints": {
+    "BASE_1": [
+      "High performer - create subtle variations",
+      "Cost-efficient - maintain structure",
+      "Try adding specific guidance or constraints"
+    ],
+    "BASE_2": [
+      "High performer - create subtle variations",
+      "Cost-efficient - maintain structure",
+      "Experiment with different length ranges"
+    ],
+    "BASE_3": [
+      "High performer - create subtle variations",
+      "High cost - consider simplifying"
+    ],
+    "BASE_4": [
+      "Room for improvement - try bolder variations",
+      "High cost - consider simplifying",
+      "Try different roles or expertise levels"
+    ],
+    "BASE_5": [
+      "Room for improvement - try bolder variations",
+      "High cost - consider simplifying"
+    ]
+  }
+}

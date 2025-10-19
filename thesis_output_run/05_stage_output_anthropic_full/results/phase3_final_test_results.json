@@ -1,0 +1,40 @@
+{
+  "phase": "final_test",
+  "timestamp": "2025-10-07T03:15:26.694192",
+  "success": true,
+  "samples_tested": 444,
+  "success_rate": 99.77477477477478,
+  "best_prompt_id": "BASE_1_CONSTRAINT_2",
+  "final_metrics": {
+    "composite_score": {
+      "mean": 0.2732972765535068,
+      "std": 0.037362958795929685,
+      "min": 0.1706847105921176,
+      "max": 0.400268417264624,
+      "median": 0.2720834127205171
+    },
+    "rouge_scores": {
+      "rouge1": 0.1755314780300199,
+      "rouge2": 0.06257013626259156,
+      "rougeL": 0.14199960583060334
+    },
+    "readability": {
+      "flesch_reading_ease": 35.23134158328891,
+      "flesch_kincaid_grade": 13.255327389189423
+    },
+    "consistency": {
+      "consistency_score": 0.38856874396669955
+    }
+  },
+  "improvement_over_baseline": 2.293574177739045,
+  "cost_analysis": {
+    "total_cost": 1.27818,
+    "cost_per_sample": 0.002878783783783784,
+    "total_input_tokens": 0,
+    "total_output_tokens": 0,
+    "tokens_per_sample": 0.0,
+    "cost_per_improvement": 0.5572874042643792
+  },
+  "execution_time": 1149.5898008346558,
+  "phase_type": "final_test"
+}

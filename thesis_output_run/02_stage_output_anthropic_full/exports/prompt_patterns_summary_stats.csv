@@ -1,0 +1,10 @@
+Metric,Value
+Total Patterns Analyzed,5
+Average Complexity,2.2/5
+Complexity Range,1-3
+Average Token Usage,~25 tokens
+Token Usage Range,~15-35 tokens
+Most Complex Pattern,Style-Specified
+Most Efficient Pattern,Direct
+Best for Beginners,Direct (lowest complexity)
+Best for Production,Length-Constrained (balanced)

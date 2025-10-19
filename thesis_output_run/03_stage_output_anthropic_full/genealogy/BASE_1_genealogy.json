@@ -1,0 +1,26 @@
+{
+  "base_prompt_id": "BASE_1",
+  "base_prompt_name": "Direct Instruction",
+  "children_count": 11,
+  "children": [
+    "BASE_1_PARAPHRASE_1",
+    "BASE_1_PARAPHRASE_2",
+    "BASE_1_CONSTRAINT_1",
+    "BASE_1_CONSTRAINT_2",
+    "BASE_1_DETAIL_1",
+    "BASE_1_DETAIL_2",
+    "BASE_1_STRUCTURE_1",
+    "BASE_1_STRUCTURE_2",
+    "BASE_1_TONE_1",
+    "BASE_1_TONE_2",
+    "BASE_1_ADDITIONAL_1"
+  ],
+  "strategy_breakdown": {
+    "paraphrase": 2,
+    "constraint": 2,
+    "detail": 2,
+    "structure": 2,
+    "tone": 2,
+    "additional": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "stage4a_cost": 21.491152800000002,
+  "stage4b_cost": 9.8582328,
+  "total_cost": 31.349385600000073,
+  "budget_limit": 100.0,
+  "budget_utilization": 31.349385600000073,
+  "cost_per_evaluation": 0.000696653013333335,
+  "efficiency_metrics": {
+    "best_cost_efficiency": 511.7143367824042,
+    "average_cost_efficiency": 490.1682647423574,
+    "cost_std": 9.160900822442594
+  }
+}

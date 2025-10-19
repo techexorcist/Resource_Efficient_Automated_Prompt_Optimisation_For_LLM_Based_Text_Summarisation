@@ -1,0 +1,42 @@
+{
+  "strategy": "additional",
+  "variation_count": 5,
+  "variations": [
+    {
+      "variation_id": "BASE_1_ADDITIONAL_1",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nPlease provide a concise summary that captures the essence of the article while maintaining accuracy and clarity.",
+      "strategy": "additional",
+      "parent": "BASE_1",
+      "description": "Combined approach with emphasis on accuracy"
+    },
+    {
+      "variation_id": "BASE_2_ADDITIONAL_1",
+      "template": "Please provide a summary of the following news article in 60-80 words, capturing the main points:\n\n{article}\n\nPlease provide a concise summary that captures the essence of the article while maintaining accuracy and clarity.",
+      "strategy": "additional",
+      "parent": "BASE_2",
+      "description": "Combined approach with emphasis on accuracy"
+    },
+    {
+      "variation_id": "BASE_3_ADDITIONAL_1",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nPlease provide a concise summary that captures the essence of the article while maintaining accuracy and clarity.",
+      "strategy": "additional",
+      "parent": "BASE_3",
+      "description": "Combined approach with emphasis on accuracy"
+    },
+    {
+      "variation_id": "BASE_4_ADDITIONAL_1",
+      "template": "As a professional news analyst, create a brief executive summary of this article that highlights the most important information for decision-makers:\n\n{article}\n\nPlease provide a concise summary that captures the essence of the article while maintaining accuracy and clarity.",
+      "strategy": "additional",
+      "parent": "BASE_4",
+      "description": "Combined approach with emphasis on accuracy"
+    },
+    {
+      "variation_id": "BASE_5_ADDITIONAL_1",
+      "template": "Provide a comprehensive summary of the following article. Include the main theme, supporting details, and implications. Ensure the summary is self-contained and can be understood without reading the original article:\n\n{article}\n\nPlease provide a concise summary that captures the essence of the article while maintaining accuracy and clarity.",
+      "strategy": "additional",
+      "parent": "BASE_5",
+      "description": "Combined approach with emphasis on accuracy"
+    }
+  ],
+  "created_at": "2025-10-05T09:44:52.506332"
+}

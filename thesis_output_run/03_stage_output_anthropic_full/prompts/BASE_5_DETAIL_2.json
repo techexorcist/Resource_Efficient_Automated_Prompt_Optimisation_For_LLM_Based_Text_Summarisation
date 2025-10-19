@@ -1,0 +1,11 @@
+{
+  "prompt_id": "BASE_5_DETAIL_2",
+  "name": "BASE_5_DETAIL_2 (Variation)",
+  "template": "Provide a comprehensive summary of the following article. Include the main theme, supporting details, and implications. Ensure the summary is self-contained and can be understood without reading the original article:\n\n{article}\n\nFocus on the who, what, when, where, and why.",
+  "approach": "variation",
+  "type": "variation",
+  "parent": "BASE_5",
+  "strategy": "detail",
+  "description": "Focus on key journalistic elements",
+  "created_at": "2025-10-05T09:44:52.504651"
+}

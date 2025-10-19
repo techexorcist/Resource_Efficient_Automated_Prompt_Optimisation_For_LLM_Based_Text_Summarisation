@@ -1,0 +1,11 @@
+{
+  "prompt_id": "BASE_4_TONE_2",
+  "name": "BASE_4_TONE_2 (Variation)",
+  "template": "As a professional news analyst, create a brief executive summary of this article that highlights the most important information for decision-makers:\n\n{article}\n\nUse a conversational and engaging tone.",
+  "approach": "variation",
+  "type": "variation",
+  "parent": "BASE_4",
+  "strategy": "tone",
+  "description": "Conversational tone requirement",
+  "created_at": "2025-10-05T09:44:52.501557"
+}

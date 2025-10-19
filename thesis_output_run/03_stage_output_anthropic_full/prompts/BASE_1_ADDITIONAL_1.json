@@ -1,0 +1,11 @@
+{
+  "prompt_id": "BASE_1_ADDITIONAL_1",
+  "name": "BASE_1_ADDITIONAL_1 (Variation)",
+  "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nPlease provide a concise summary that captures the essence of the article while maintaining accuracy and clarity.",
+  "approach": "variation",
+  "type": "variation",
+  "parent": "BASE_1",
+  "strategy": "additional",
+  "description": "Combined approach with emphasis on accuracy",
+  "created_at": "2025-10-05T09:44:52.484542"
+}

@@ -1,0 +1,11 @@
+{
+  "prompt_id": "BASE_3_PARAPHRASE_2",
+  "name": "BASE_3_PARAPHRASE_2 (Variation)",
+  "template": "Please review this news article and give a brief overview that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}",
+  "approach": "variation",
+  "type": "variation",
+  "parent": "BASE_3",
+  "strategy": "paraphrase",
+  "description": "Alternative phrasing approach",
+  "created_at": "2025-10-05T09:44:52.492943"
+}

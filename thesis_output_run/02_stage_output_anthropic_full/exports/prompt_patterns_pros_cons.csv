@@ -1,0 +1,14 @@
+Pattern,Advantages,Disadvantages,Best Use Case
+Direct,"✓ Fast
+✓ Low cost
+✓ Clear","⚠ No guidance
+⚠ Variable quality",Quick summaries
+Length-Constrained,"✓ Consistent length
+✓ Predictable",⚠ May truncate important info,Standardized reports
+Style-Specified,"✓ Audience-appropriate
+✓ Consistent tone","⚠ Higher cost
+⚠ May be verbose",Business communications
+Content-Focused,"✓ Structured output
+✓ Key info focus",⚠ May miss context,Research summaries
+Role-Based,"✓ Expert perspective
+✓ Context-aware",⚠ Role dependency,Domain-specific content

@@ -1,0 +1,10 @@
+{
+  "prompt_id": "BASE_1",
+  "name": "Direct Instruction",
+  "template": "Summarize the following news article in a clear and concise manner:\n\n{article}",
+  "approach": "Direct",
+  "type": "base",
+  "parent": null,
+  "strategy": "original",
+  "created_at": "2025-10-05T09:44:52.470171"
+}

@@ -1,0 +1,11 @@
+{
+  "prompt_id": "BASE_1_STRUCTURE_2",
+  "name": "BASE_1_STRUCTURE_2 (Variation)",
+  "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nStructure your response with:\n- Opening paragraph (main point)\n- Body paragraph (key details)\n- Closing paragraph (conclusion)",
+  "approach": "variation",
+  "type": "variation",
+  "parent": "BASE_1",
+  "strategy": "structure",
+  "description": "Paragraph structure requirement",
+  "created_at": "2025-10-05T09:44:52.475145"
+}

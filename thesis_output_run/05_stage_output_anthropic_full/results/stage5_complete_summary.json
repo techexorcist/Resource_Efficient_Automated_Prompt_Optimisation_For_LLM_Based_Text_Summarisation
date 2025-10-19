@@ -1,0 +1,41 @@
+{
+  "stage": "Stage 5 - Validation and Final Testing",
+  "timestamp": "2025-10-07T03:15:34.851045",
+  "overall_success": true,
+  "total_samples_tested": 6344,
+  "total_cost": 18.391464,
+  "baseline_performance": 0.2671695448617742,
+  "final_performance": 0.2732972765535068,
+  "performance_improvement_percent": 2.293574177739045,
+  "best_prompt": "BASE_1_CONSTRAINT_2",
+  "total_execution_time": 15370.393190145493,
+  "phases": {
+    "phase1_baseline": {
+      "success": true,
+      "samples_tested": 400,
+      "success_rate": 100.0,
+      "performance": 0.2671695448617742,
+      "cost": 1.1266739999999997,
+      "execution_time": 0.0
+    },
+    "phase2_validation": {
+      "success": true,
+      "samples_tested": 5500,
+      "success_rate": 100.0,
+      "best_prompt": "BASE_1_CONSTRAINT_2",
+      "best_performance": 0.2731939716676949,
+      "cost": 15.98661,
+      "execution_time": 14220.803389310837
+    },
+    "phase3_final_test": {
+      "success": true,
+      "samples_tested": 444,
+      "success_rate": 99.77477477477478,
+      "performance": 0.2732972765535068,
+      "improvement": 2.293574177739045,
+      "cost": 1.27818,
+      "execution_time": 1149.5898008346558
+    }
+  },
+  "completion_flag": true
+}

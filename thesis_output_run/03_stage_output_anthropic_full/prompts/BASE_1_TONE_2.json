@@ -1,0 +1,11 @@
+{
+  "prompt_id": "BASE_1_TONE_2",
+  "name": "BASE_1_TONE_2 (Variation)",
+  "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nUse a conversational and engaging tone.",
+  "approach": "variation",
+  "type": "variation",
+  "parent": "BASE_1",
+  "strategy": "tone",
+  "description": "Conversational tone requirement",
+  "created_at": "2025-10-05T09:44:52.476346"
+}

@@ -1,0 +1,77 @@
+{
+  "strategy": "detail",
+  "variation_count": 10,
+  "variations": [
+    {
+      "variation_id": "BASE_1_DETAIL_1",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nInclude specific details, numbers, and key facts.",
+      "strategy": "detail",
+      "parent": "BASE_1",
+      "description": "Enhanced detail requirements"
+    },
+    {
+      "variation_id": "BASE_1_DETAIL_2",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nFocus on the who, what, when, where, and why.",
+      "strategy": "detail",
+      "parent": "BASE_1",
+      "description": "Focus on key journalistic elements"
+    },
+    {
+      "variation_id": "BASE_2_DETAIL_1",
+      "template": "Please provide a summary of the following news article in 60-80 words, capturing the main points:\n\n{article}\n\nInclude specific details, numbers, and key facts.",
+      "strategy": "detail",
+      "parent": "BASE_2",
+      "description": "Enhanced detail requirements"
+    },
+    {
+      "variation_id": "BASE_2_DETAIL_2",
+      "template": "Please provide a summary of the following news article in 60-80 words, capturing the main points:\n\n{article}\n\nFocus on the who, what, when, where, and why.",
+      "strategy": "detail",
+      "parent": "BASE_2",
+      "description": "Focus on key journalistic elements"
+    },
+    {
+      "variation_id": "BASE_3_DETAIL_1",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nInclude specific details, numbers, and key facts.",
+      "strategy": "detail",
+      "parent": "BASE_3",
+      "description": "Enhanced detail requirements"
+    },
+    {
+      "variation_id": "BASE_3_DETAIL_2",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nFocus on the who, what, when, where, and why.",
+      "strategy": "detail",
+      "parent": "BASE_3",
+      "description": "Focus on key journalistic elements"
+    },
+    {
+      "variation_id": "BASE_4_DETAIL_1",
+      "template": "As a professional news analyst, create a brief executive summary of this article that highlights the most important information for decision-makers:\n\n{article}\n\nInclude specific details, numbers, and key facts.",
+      "strategy": "detail",
+      "parent": "BASE_4",
+      "description": "Enhanced detail requirements"
+    },
+    {
+      "variation_id": "BASE_4_DETAIL_2",
+      "template": "As a professional news analyst, create a brief executive summary of this article that highlights the most important information for decision-makers:\n\n{article}\n\nFocus on the who, what, when, where, and why.",
+      "strategy": "detail",
+      "parent": "BASE_4",
+      "description": "Focus on key journalistic elements"
+    },
+    {
+      "variation_id": "BASE_5_DETAIL_1",
+      "template": "Provide a comprehensive summary of the following article. Include the main theme, supporting details, and implications. Ensure the summary is self-contained and can be understood without reading the original article:\n\n{article}\n\nInclude specific details, numbers, and key facts.",
+      "strategy": "detail",
+      "parent": "BASE_5",
+      "description": "Enhanced detail requirements"
+    },
+    {
+      "variation_id": "BASE_5_DETAIL_2",
+      "template": "Provide a comprehensive summary of the following article. Include the main theme, supporting details, and implications. Ensure the summary is self-contained and can be understood without reading the original article:\n\n{article}\n\nFocus on the who, what, when, where, and why.",
+      "strategy": "detail",
+      "parent": "BASE_5",
+      "description": "Focus on key journalistic elements"
+    }
+  ],
+  "created_at": "2025-10-05T09:44:52.507164"
+}

@@ -1,0 +1,84 @@
+{
+  "base_prompt_id": "BASE_1",
+  "variation_count": 11,
+  "variations": [
+    {
+      "variation_id": "BASE_1_PARAPHRASE_1",
+      "template": "Condensed overview the following news article in a clear and concise manner:\n\n{article}",
+      "strategy": "paraphrase",
+      "parent": "BASE_1",
+      "description": "Comprehensive synonym replacement"
+    },
+    {
+      "variation_id": "BASE_1_PARAPHRASE_2",
+      "template": "Brief overview the following news article in a clear and concise manner:\n\n{article}",
+      "strategy": "paraphrase",
+      "parent": "BASE_1",
+      "description": "Alternative phrasing approach"
+    },
+    {
+      "variation_id": "BASE_1_CONSTRAINT_1",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nPlease ensure the summary is exactly 3 sentences long.",
+      "strategy": "constraint",
+      "parent": "BASE_1",
+      "description": "Added length constraint (3 sentences)"
+    },
+    {
+      "variation_id": "BASE_1_CONSTRAINT_2",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nPlease keep the summary between 60-80 words.",
+      "strategy": "constraint",
+      "parent": "BASE_1",
+      "description": "Added word count constraint (60-80 words)"
+    },
+    {
+      "variation_id": "BASE_1_DETAIL_1",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nInclude specific details, numbers, and key facts.",
+      "strategy": "detail",
+      "parent": "BASE_1",
+      "description": "Enhanced detail requirements"
+    },
+    {
+      "variation_id": "BASE_1_DETAIL_2",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nFocus on the who, what, when, where, and why.",
+      "strategy": "detail",
+      "parent": "BASE_1",
+      "description": "Focus on key journalistic elements"
+    },
+    {
+      "variation_id": "BASE_1_STRUCTURE_1",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nFormat your response as:\n1. Main Point\n2. Key Details\n3. Conclusion",
+      "strategy": "structure",
+      "parent": "BASE_1",
+      "description": "Structured format requirement"
+    },
+    {
+      "variation_id": "BASE_1_STRUCTURE_2",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nStructure your response with:\n- Opening paragraph (main point)\n- Body paragraph (key details)\n- Closing paragraph (conclusion)",
+      "strategy": "structure",
+      "parent": "BASE_1",
+      "description": "Paragraph structure requirement"
+    },
+    {
+      "variation_id": "BASE_1_TONE_1",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nUse a professional and objective tone.",
+      "strategy": "tone",
+      "parent": "BASE_1",
+      "description": "Professional tone requirement"
+    },
+    {
+      "variation_id": "BASE_1_TONE_2",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nUse a conversational and engaging tone.",
+      "strategy": "tone",
+      "parent": "BASE_1",
+      "description": "Conversational tone requirement"
+    },
+    {
+      "variation_id": "BASE_1_ADDITIONAL_1",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nPlease provide a concise summary that captures the essence of the article while maintaining accuracy and clarity.",
+      "strategy": "additional",
+      "parent": "BASE_1",
+      "description": "Combined approach with emphasis on accuracy"
+    }
+  ],
+  "created_at": "2025-10-05T09:44:52.509331"
+}

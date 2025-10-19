@@ -1,0 +1,77 @@
+{
+  "strategy": "structure",
+  "variation_count": 10,
+  "variations": [
+    {
+      "variation_id": "BASE_1_STRUCTURE_1",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nFormat your response as:\n1. Main Point\n2. Key Details\n3. Conclusion",
+      "strategy": "structure",
+      "parent": "BASE_1",
+      "description": "Structured format requirement"
+    },
+    {
+      "variation_id": "BASE_1_STRUCTURE_2",
+      "template": "Summarize the following news article in a clear and concise manner:\n\n{article}\n\nStructure your response with:\n- Opening paragraph (main point)\n- Body paragraph (key details)\n- Closing paragraph (conclusion)",
+      "strategy": "structure",
+      "parent": "BASE_1",
+      "description": "Paragraph structure requirement"
+    },
+    {
+      "variation_id": "BASE_2_STRUCTURE_1",
+      "template": "Please provide a summary of the following news article in 60-80 words, capturing the main points:\n\n{article}\n\nFormat your response as:\n1. Main Point\n2. Key Details\n3. Conclusion",
+      "strategy": "structure",
+      "parent": "BASE_2",
+      "description": "Structured format requirement"
+    },
+    {
+      "variation_id": "BASE_2_STRUCTURE_2",
+      "template": "Please provide a summary of the following news article in 60-80 words, capturing the main points:\n\n{article}\n\nStructure your response with:\n- Opening paragraph (main point)\n- Body paragraph (key details)\n- Closing paragraph (conclusion)",
+      "strategy": "structure",
+      "parent": "BASE_2",
+      "description": "Paragraph structure requirement"
+    },
+    {
+      "variation_id": "BASE_3_STRUCTURE_1",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nFormat your response as:\n1. Main Point\n2. Key Details\n3. Conclusion",
+      "strategy": "structure",
+      "parent": "BASE_3",
+      "description": "Structured format requirement"
+    },
+    {
+      "variation_id": "BASE_3_STRUCTURE_2",
+      "template": "Read the following news article and provide a summary that includes:\n- The main topic\n- Key facts or findings\n- Any important conclusions\n\nArticle:\n{article}\n\nStructure your response with:\n- Opening paragraph (main point)\n- Body paragraph (key details)\n- Closing paragraph (conclusion)",
+      "strategy": "structure",
+      "parent": "BASE_3",
+      "description": "Paragraph structure requirement"
+    },
+    {
+      "variation_id": "BASE_4_STRUCTURE_1",
+      "template": "As a professional news analyst, create a brief executive summary of this article that highlights the most important information for decision-makers:\n\n{article}\n\nFormat your response as:\n1. Main Point\n2. Key Details\n3. Conclusion",
+      "strategy": "structure",
+      "parent": "BASE_4",
+      "description": "Structured format requirement"
+    },
+    {
+      "variation_id": "BASE_4_STRUCTURE_2",
+      "template": "As a professional news analyst, create a brief executive summary of this article that highlights the most important information for decision-makers:\n\n{article}\n\nStructure your response with:\n- Opening paragraph (main point)\n- Body paragraph (key details)\n- Closing paragraph (conclusion)",
+      "strategy": "structure",
+      "parent": "BASE_4",
+      "description": "Paragraph structure requirement"
+    },
+    {
+      "variation_id": "BASE_5_STRUCTURE_1",
+      "template": "Provide a comprehensive summary of the following article. Include the main theme, supporting details, and implications. Ensure the summary is self-contained and can be understood without reading the original article:\n\n{article}\n\nFormat your response as:\n1. Main Point\n2. Key Details\n3. Conclusion",
+      "strategy": "structure",
+      "parent": "BASE_5",
+      "description": "Structured format requirement"
+    },
+    {
+      "variation_id": "BASE_5_STRUCTURE_2",
+      "template": "Provide a comprehensive summary of the following article. Include the main theme, supporting details, and implications. Ensure the summary is self-contained and can be understood without reading the original article:\n\n{article}\n\nStructure your response with:\n- Opening paragraph (main point)\n- Body paragraph (key details)\n- Closing paragraph (conclusion)",
+      "strategy": "structure",
+      "parent": "BASE_5",
+      "description": "Paragraph structure requirement"
+    }
+  ],
+  "created_at": "2025-10-05T09:44:52.508384"
+}
